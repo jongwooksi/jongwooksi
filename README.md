@@ -85,11 +85,11 @@ Here are some ideas to get you started:
 </br>
 
 :trophy: CERTIFICATE
-- **J. Si**, S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
+- **J. Si** and S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
 
-- **J. Si**, D. Kim, J. Jeong, "Speciality Award - Intelligent Humanoid", 2021.01.08, Embedded SW System Industrial Association
+- **J. Si**, D. Kim and J. Jeong, "Speciality Award - Intelligent Humanoid", 2021.01.08, Embedded SW System Industrial Association
 
-- **J. Si**, M. Kim, "Popularity Award - Kit Engineering Fair", 2020.12.28, Kumoh National Institute of Technology
+- **J. Si** and M. Kim, "Popularity Award - Kit Engineering Fair", 2020.12.28, Kumoh National Institute of Technology
 
 - **J. Si**, J. Jeong, G. Kim and S. Kim, "Excellent Paper Award - Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", 2020.10.23, Korean Institute of Information Technology
 
