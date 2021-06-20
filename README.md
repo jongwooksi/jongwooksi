@@ -12,6 +12,8 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
  </p>
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongwooksi&show_icons=true&theme={theme})](https://github.com/jongwooksi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooksi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jongwooksi/jongwooksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -99,7 +101,3 @@ Here are some ideas to get you started:
 - H. Son, **J. Si**, D. Kim and S. Kim, "Excellent Paper Award - Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", 2020.07.17, Korea Society of Computer and Information
 
 </br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongwooksi&show_icons=true&theme={theme})](https://github.com/jongwooksi/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooksi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
