@@ -5,12 +5,14 @@
   <img src="https://img.shields.io/badge/Java-7396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C++-599C?style=flat-square&logo=C++&logoColor=white"/></a>
+
   </br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Arduino-979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
  </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooksi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jongwooksi/jongwooksi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
