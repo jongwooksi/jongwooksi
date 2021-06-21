@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - Image Processing in class (2021.03.01 ~ 2021.06.30)
 - Development of Computer Vision System in Raspberry Pi Environment (2021.01.06 ~ 2021.01.12)
 - Specialized Mentoring based Major Subject - Digital System and Circuit Analysis (2020.10 ~ 2020.12)
-- Multimedia Engineeringin class (2020.09.01 ~ 2020.12.31)
+- Multimedia Engineering in class (2020.09.01 ~ 2020.12.31)
 - Iot Design Using Raspberry Pi Platform (2020.08.18 ~ 2020.08.31)
 - Image Processing in class (2020.03.01 ~ 2020.06.30)
 - Humanoid Robot Control Using Image Analysis (2019.12.06 ~ 2020.01.08)
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </br>
 
 :book: Publication
-- [under review] **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 2021.6, ?~?, (9 pages) 
+- [under review] **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 2021.6, (9 pages) 
 
 - **J. Si**, S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 19~21 (3 pages)
 
