@@ -66,11 +66,11 @@ Here are some ideas to get you started:
 
 - H. Son, M. Kim, **J. Si**, C. Lee and S. Kim, "Pan-tilt Angle Mapping Method using Monocular Camera and Point-to-Point LiDAR Sensor", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 22~23 (2 pages)
 
-- **J. Si**, C. Lee, S. Kiim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 29~31 (3 pages)
+- **J. Si**, C. Lee, S. Kim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 29~31 (3 pages)
 
 - **J. Si**. S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
 
-- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim and S. kim, "Fall Detection Using Skeletal Coordinate Vectorand LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), 18(12), 2020.12, 19-28 (10 pages)
+- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim and S. Kim, "Fall Detection Using Skeletal Coordinate Vectorand LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), 18(12), 2020.12, 19-28 (10 pages)
 
 - **J. Si**, J. Jeong, G. Kim and S. Kim, "Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", Proc. Of the 2020 KIIT Conference, 15(1), 2020.10, 147-149(3 pages)
 
