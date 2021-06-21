@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Java-7396?style=flat-square&logo=Java&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/C++-599C?style=flat-square&logo=C++&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-1C509C?style=flat-square&logo=C%2B%2B&&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/RoboBasic(VBA)-3AB2D8?style=flat-square&logo=Probot&logoColor=white"/></a>
 
   </br>
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
