@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 
  </br>
  
-🌱 ONGOING MISSION
+🌱 Ongoing Mission
 - Department Manager of Humascot, Inc. (2021.01 ~ )
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
 - AI BigData Center Assistant (2021.03 ~ )
 
 </br>
 
-:running: ASSISTANT
+:running: Assistant
 - [Scheduled] Build of IoT platform using Arduino and Raspberry Pi (2021.07.12 ~ 2021.07.19)
 - Image Processing in class (2021.03.01 ~ 2021.06.30)
 - Development of Computer Vision System in Raspberry Pi Environment (2021.01.06 ~ 2021.01.12)
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 </br>
 
-:trophy: CERTIFICATE
+:trophy: Cetrificate
 - **J. Si** and S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
 
 - **J. Si**, D. Kim and J. Jeong, "Speciality Award - Intelligent Humanoid", 2021.01.08, Embedded SW System Industrial Association
