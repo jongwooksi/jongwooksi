@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 
 - D. Kim, H. Son, **J. Si** and S. Kim, "Traffic Accident Detection Based on Ego Motion and Object Tracking", Journal of Advanced Information Technology and Convergence(JAITC), 10(1), 2020.7, 15-23 (9 pages)
 
-- H. Son,**J. Si**, D. Kim, Y. Lee and S. Kim, "Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", Proceeding of Korea Society of Computer and Information Conferenece, 28(2), 2020.7, 71-72(2 pages)
+- H. Son, **J. Si**, D. Kim, Y. Lee and S. Kim, "Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", Proc. Of Korea Society of Computer and Information Conferenece, 28(2), 2020.7, 71-72(2 pages)
 
 - **J. Si**, M. Kim and S. Kim, "Wire Removal and Recognition on Circuit Elements on Electronic Schematics", Proc. Of 2020 The 2nd International Workshop on Future Technology (FUTECH 2020), 37, 2020.1, 68-70 (3 pages)
 
