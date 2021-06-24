@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - E-mail : jwsi425@kumoh.ac.kr
 - Research Area: Style Transfer, Style Synthesis, Image Generation, GAN
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.38/4.5
-- M.S Course, Computer Engineering, kit (2020. 9 ~ ), Major GPA: 4.5/4.5
+- M.E Course, Computer Engineering, kit (2020. 9 ~ ), Major GPA: 4.5/4.5
 
  </br>
  
