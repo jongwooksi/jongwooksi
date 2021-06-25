@@ -99,6 +99,6 @@ Here are some ideas to get you started:
 
 - **J. Si**, "Speciality Award - Graduation Award", 2020.08.21, Kumoh National Institute of Technology
 
-- H. Son, **J. Si**, D. Kim and S. Kim, "Excellent Paper Award - Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", 2020.07.17, Korea Society of Computer and Information
+- H. Son, **J. Si**, D. Kim, Y. Lee and S. Kim, "Excellent Paper Award - Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", 2020.07.17, Korea Society of Computer and Information
 
 </br>
