@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 </br>
 
-:trophy: Cetrificate
+:trophy: Certificate
 - **J. Si** and S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
 
 - **J. Si**, D. Kim and J. Jeong, "Speciality Award - Intelligent Humanoid", 2021.01.08, Embedded SW System Industrial Association
