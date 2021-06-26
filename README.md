@@ -105,11 +105,11 @@ Here are some ideas to get you started:
 
 ⚡ Certificate
 - Network Administrator Grade 2, 2019.07.09, ICQA
-- 
+
 - Internet Information Management Grade 2, 2018.09.21, KAIT
-- 
+
 - Linux Master Grade 2, 2018.03.23, KAIT
-- 
+
 - Digital Information Utilization Internet Information Search Advanced, 2018.03.09, KAIT
-- 
+
 - Practical Mathematics Grade 1, 2017.09.18, KOPE
