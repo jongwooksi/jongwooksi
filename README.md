@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 - **J. Si**, C. Lee, S. Kim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 29~31 (3 pages)
 
-- **J. Si**. S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
+- **J. Si**, S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
 
 - **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim and S. Kim, "Fall Detection Using Skeletal Coordinate Vectorand LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), 18(12), 2020.12, 19-28 (10 pages)
 
@@ -88,7 +88,7 @@ Here are some ideas to get you started:
 
 </br>
 
-:trophy: Certificate
+:trophy: Awards
 - **J. Si** and S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
 
 - **J. Si**, D. Kim and J. Jeong, "Speciality Award - Intelligent Humanoid", 2021.01.08, Embedded SW System Industrial Association
@@ -102,3 +102,14 @@ Here are some ideas to get you started:
 - H. Son, **J. Si**, D. Kim, Y. Lee and S. Kim, "Excellent Paper Award - Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", 2020.07.17, Korea Society of Computer and Information
 
 </br>
+
+⚡ Certificate
+- Network Administrator Grade 2, 2019.07.09, ICQA
+- 
+- Internet Information Management Grade 2, 2018.09.21, KAIT
+- 
+- Linux Master Grade 2, 2018.03.23, KAIT
+- 
+- Digital Information Utilization Internet Information Search Advanced, 2018.03.09, KAIT
+- 
+- Practical Mathematics Grade 1, 2017.09.18, KOPE
