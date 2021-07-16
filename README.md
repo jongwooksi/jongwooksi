@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </br>
 
 :book: Publication
-- [under review] **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist"
+- [Accepted] **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 19(7), 2021.7, (10 pages)
 
 - **J. Si**, S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 19~21 (3 pages)
 
