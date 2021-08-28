@@ -61,13 +61,13 @@ Here are some ideas to get you started:
 </br>
 
 :book: Publication
-- [Accepted] **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 19(8), 2021.8, (10 pages)
+- **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 19(8), 2021.8, 1-10 (10 pages)
 
-- **J. Si**, S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 19~21 (3 pages)
+- **J. Si**, S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 19-21 (3 pages)
 
-- H. Son, M. Kim, **J. Si**, C. Lee and S. Kim, "Pan-tilt Angle Mapping Method using Monocular Camera and Point-to-Point LiDAR Sensor", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 22~23 (2 pages)
+- H. Son, M. Kim, **J. Si**, C. Lee and S. Kim, "Pan-tilt Angle Mapping Method using Monocular Camera and Point-to-Point LiDAR Sensor", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 22-23 (2 pages)
 
-- **J. Si**, C. Lee, S. Kim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 29~31 (3 pages)
+- **J. Si**, C. Lee, S. Kim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 29-31 (3 pages)
 
 - **J. Si**, S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
 
