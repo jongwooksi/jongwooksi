@@ -42,12 +42,14 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- AI BigData Center Assistant (2021.03 ~ )
+- (2021-2) Multimedia Engineering in class 
 
 </br>
 
 :running: Assistant
-- Department Manager of Humascot, Inc. (2021.01 ~ 2021.08)
+- AI BigData Center Assistant (2021.03.15 ~ 2021.08.31)
+- Department Manager of Humascot, Inc. (2021.01.29 ~ 2021.08.31)
+- Data Fusion Machine Learning Project Practice [Biznium] (2021.08.12 ~ 2021.08.13)
 - Build of IoT platform using Arduino and Raspberry Pi (2021.07.12 ~ 2021.07.20)
 - Image Processing in class (2021.03.01 ~ 2021.06.30)
 - Development of Computer Vision System in Raspberry Pi Environment (2021.01.06 ~ 2021.01.12)
