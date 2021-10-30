@@ -1,4 +1,4 @@
-### Jongwook Si 👋 
+### Jongwook Si (시종욱)👋 
 
  <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 
 - **J. Si**, S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
 
-- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim and S. Kim, "Fall Detection Using Skeletal Coordinate Vectorand LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), 18(12), 2020.12, 19-28 (10 pages)
+- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim and S. Kim, "Fall Detection Using Skeletal Coordinate Vector and LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), 18(12), 2020.12, 19-28 (10 pages)
 
 - **J. Si**, J. Jeong, G. Kim and S. Kim, "Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", Proc. Of the 2020 KIIT Conference, 15(1), 2020.10, 147-149(3 pages)
 
