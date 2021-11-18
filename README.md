@@ -63,15 +63,21 @@ Here are some ideas to get you started:
 </br>
 
 :book: Publication
+- **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11 (3 pages)
+
+- **J. Si**, S. Lee and S. Kim, "Volume Calculation of Mold by Analyzing STP Files: Preliminary Study", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11 (2 pages)
+
+- J. Jeong, G. Kim, S. Lee, M. Jeong, **J. Si** and S. Kim, "Design of Virtual Electronic Circuit Simulator in Metaverse Environment", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11 (3 pages)
+
 - **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 19(8), 2021.8, 1-10 (10 pages)
 
-- **J. Si**, S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 19-21 (3 pages)
+- **J. Si** and S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 19-21 (3 pages)
 
 - H. Son, M. Kim, **J. Si**, C. Lee and S. Kim, "Pan-tilt Angle Mapping Method using Monocular Camera and Point-to-Point LiDAR Sensor", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 22-23 (2 pages)
 
 - **J. Si**, C. Lee, S. Kim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 29-31 (3 pages)
 
-- **J. Si**, S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
+- **J. Si** and S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
 
 - **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim and S. Kim, "Fall Detection Using Skeletal Coordinate Vector and LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), 18(12), 2020.12, 19-28 (10 pages)
 
@@ -87,6 +93,8 @@ Here are some ideas to get you started:
 
 :two_men_holding_hands: PROJECT
 - A Study on the Semantic Analysis of Cyber Attacks and the Establishment of Knowledge Database (ETRI), (2019-06-01 ~ 2019-11-30)
+- Advancement of Casting Process Manufacturing Data and Development of Technology for joint Utilization, (2020-09-01 ~ 2021-01-31)
+- Development of underground control panel technology with AR air pocket technology(The Ministry of SMEs and Startups), (2021-09-06 ~ 2023-09-05)
 
 </br>
 
