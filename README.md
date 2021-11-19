@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 </br>
 
 :book: Publication
-- **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11 (3 pages)
+- **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 109-111 (3 pages)
 
-- **J. Si**, S. Lee and S. Kim, "Volume Calculation of Mold by Analyzing STP Files: Preliminary Study", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11 (2 pages)
+- **J. Si**, S. Lee and S. Kim, "Volume Calculation of Mold by Analyzing STP Files: Preliminary Study", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 112-113 (2 pages)
 
-- J. Jeong, G. Kim, S. Lee, M. Jeong, **J. Si** and S. Kim, "Design of Virtual Electronic Circuit Simulator in Metaverse Environment", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11 (3 pages)
+- J. Jeong, G. Kim, S. Lee, M. Jeong, **J. Si** and S. Kim, "Design of Virtual Electronic Circuit Simulator in Metaverse Environment", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 547-549 (3 pages)
 
 - **J. Si**, M. Kim and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 19(8), 2021.8, 1-10 (10 pages)
 
