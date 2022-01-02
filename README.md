@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 :clipboard: About Me
 - Lab : Department of Computer Engineering (Digital building 235) Kumoh National Institute of Technology (KIT), KOREA
 - E-mail : jwsi425@kumoh.ac.kr
-- Research Area: Style Transfer, Style Synthesis, Image Generation, GAN
+- Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, GAN
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
 - M.E, Computer Engineering, kit (2022. 2), Major GPA: 4.5/4.5
 - Ph.D Student, Computer Engineering, kit (2022. 2~ )
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 </br>
 
 :running: Assistant
+- Development of Computer Vision System in Raspberry Pi Environment (2022.01.11 ~ 2021.01.18)
 - Multimedia Engineering in class (2021.09.01 ~ 2021.12.31)
 - AI BigData Center Assistant (2021.03.15 ~ 2021.08.31)
 - Department Manager of Humascot, Inc. (2021.01.29 ~ 2021.08.31)
@@ -64,6 +65,12 @@ Here are some ideas to get you started:
 </br>
 
 :book: Publication
+- **J. Si**, M. Kim and S. Kim, "Restoring From JPEG lossy compression images to PNG images based on Improved Pix2Pix", Workshop on Image Processing and Image Understanding, 2022.02 (Under Review)
+
+- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding, 2022.02 (Under Review)
+- 
+- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectoriesm", Journal of Korean Institute of Information Technology(JKIIT), 2022.01 (Under Review)
+
 - **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 109-111 (3 pages)
 
 - **J. Si**, S. Lee and S. Kim, "Volume Calculation of Mold by Analyzing STP Files: Preliminary Study", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 112-113 (2 pages)
@@ -100,6 +107,8 @@ Here are some ideas to get you started:
 </br>
 
 :trophy: Awards
+- **J. Si**, J. Jeong, G. Kim, S. Lee and M. Jeong, "Excellent Award - Intelligent Humanoid", 2021.12.21, The chairman of the Industrial-Academic Cooperative Foundation
+
 - **J. Si** and S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
 
 - **J. Si**, D. Kim and J. Jeong, "Speciality Award - Intelligent Humanoid", 2021.01.08, Embedded SW System Industrial Association
