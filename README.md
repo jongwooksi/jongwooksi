@@ -65,11 +65,9 @@ Here are some ideas to get you started:
 </br>
 
 :book: Publication
-- **J. Si**, M. Kim and S. Kim, "Restoring From JPEG lossy compression images to PNG images based on Improved Pix2Pix", Workshop on Image Processing and Image Understanding, 2022.02 (Under Review)
+- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding, 2022.02 (Accepted)
 
-- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding, 2022.02 (Under Review)
-
-- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectoriesm", Journal of Korean Institute of Information Technology(JKIIT), 2022.01 (Under Review)
+- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT) (Under Review)
 
 - **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 109-111 (3 pages)
 
