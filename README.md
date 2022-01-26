@@ -65,15 +65,16 @@ Here are some ideas to get you started:
 
 </br>
 📫 Writing and Scheduled Papers
+
 - A Study on Style Separation and Transfer based on Principal Component Analysis
-- 
+
 - Development of a Touch Display for Automatic Control of Air Purifier
-- 
+
 - PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
-- 
+
 - Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
 
-
+</br>
 :book: Publication
 - **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, 2022.02 (Master Thesis)
 
