@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 :clipboard: About Me
-- Lab : Department of Computer Engineering (Digital building 235) Kumoh National Institute of Technology (KIT), KOREA
+- Lab : Intelligent Image Analysis Lab (Director), Department of Computer Engineering (Digital building 235) Kumoh National Institute of Technology (kit), KOREA
 - E-mail : jwsi425@kumoh.ac.kr
 - Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, GAN
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
@@ -42,7 +42,8 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-
+- 2022-1 Image Processing(CD0068-02)
+- 2022-1 Capstone Design Project(CD0033-04)
 
 </br>
 
@@ -63,11 +64,19 @@ Here are some ideas to get you started:
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
 
 </br>
+📫 Writing and Scheduled Papers
+- A Study on Style Separation and Transfer based on Principal Component Analysis
+- Development of a Touch Display for Automatic Control of Air Purifier
+- PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
+- Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
+
 
 :book: Publication
-- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding, 2022.02 (Accepted)
+- **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, 2022.02 (Master Thesis)
 
-- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT) (Under Review)
+- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding (IPIU 2022), 2022.02 (Accepted)
+
+- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), 20(2), 2022.02 (Accepted)
 
 - **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 109-111 (3 pages)
 
@@ -106,6 +115,10 @@ Here are some ideas to get you started:
 
 :trophy: Awards
 - **J. Si**, J. Jeong, G. Kim, S. Lee and M. Jeong, "Excellent Award - Intelligent Humanoid", 2021.12.21, The chairman of the Industrial-Academic Cooperative Foundation
+
+- **J. Si** and S.Kim "Excellent Paper Award - Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", 2021.11.26, Korean Institute of Information Technology
+
+-  J. Jeong, G. Kim, S. Lee, M. Jeong, **J. Si** and S.Kim "Excellent Paper Award - Design of Virtual Electronic Circuit Simulator in Metaverse Environment", 2021.11.26, Korean Institute of Information Technology
 
 - **J. Si** and S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
 
