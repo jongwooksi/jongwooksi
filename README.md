@@ -76,6 +76,7 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+
 - **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, 2022.02 (Master Thesis)
 
 - **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding (IPIU 2022), 2022.02 (Accepted)
