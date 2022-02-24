@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
 
 </br>
-📫 Writing and Scheduled Papers
+📫 Writing and Scheduled Papers (TBD)
 
 - A Study on Style Separation and Transfer based on Principal Component Analysis
 
@@ -74,14 +74,15 @@ Here are some ideas to get you started:
 
 - Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
 
+- The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
+
 </br>
 :book: Publication
-
+- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), 20(3), 2022.02 (Accepted)
+ 
 - **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, 2022.02 (Master Thesis)
 
-- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding (IPIU 2022), 2022.02 (Accepted)
-
-- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), 20(2), 2022.02 (Accepted)
+- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding (IPIU 2022), Vol.34, pp.1-3, 2022.02 
 
 - **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 109-111 (3 pages)
 
