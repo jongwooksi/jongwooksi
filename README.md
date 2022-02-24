@@ -78,6 +78,7 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+
 - **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), 20(3), 2022.02 (Accepted)
  
 - **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, 2022.02 (Master Thesis)
