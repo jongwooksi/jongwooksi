@@ -42,8 +42,8 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- 2022-1 Image Processing(CD0068-02)
-- 2022-1 Capstone Design Project(CD0033-04)
+- TA: 2022-1 Image Processing (CD0068-02)
+- TA: 2022-1 Introduction to Computer Engineering (CD0058-01)
 
 </br>
 
@@ -70,16 +70,22 @@ Here are some ideas to get you started:
 
 - Development of a Touch Display for Automatic Control of Air Purifier
 
+- The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
+
+- Design of Plant Disease Diagnosis System based on Pan-Tilt For Smart Farm
+
+- Design of Body Motion Recognition System in Pan-Tilt Environment
+
+- Multi-Classification of Solar Cell Infrared Images based on CNN Model
+
 - PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
 
 - Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
 
-- The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
-
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), 20(3), 2022.02 (Accepted)
+- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), 20(3), 2022.03, 137-146 (10 pages)
  
 - **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, 2022.02 (Master Thesis)
 
@@ -114,9 +120,9 @@ Here are some ideas to get you started:
 </br>
 
 :two_men_holding_hands: PROJECT
-- A Study on the Semantic Analysis of Cyber Attacks and the Establishment of Knowledge Database (ETRI), (2019-06-01 ~ 2019-11-30)
-- Advancement of Casting Process Manufacturing Data and Development of Technology for joint Utilization, (2020-09-01 ~ 2021-01-31)
 - Development of underground control panel technology with AR air pocket technology(The Ministry of SMEs and Startups), (2021-09-06 ~ 2023-09-05)
+- Advancement of Casting Process Manufacturing Data and Development of Technology for joint Utilization, (2020-09-01 ~ 2021-01-31)
+- A Study on the Semantic Analysis of Cyber Attacks and the Establishment of Knowledge Database (ETRI), (2019-06-01 ~ 2019-11-30)
 
 </br>
 
