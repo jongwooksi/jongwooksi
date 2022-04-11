@@ -64,22 +64,16 @@ Here are some ideas to get you started:
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
 
 </br>
-📫 Writing and Scheduled Papers (TBD)
+📫 Scheduled Papers (TBD)
 
 - A Study on Style Separation and Transfer based on Principal Component Analysis
-
 - Development of a Touch Display for Automatic Control of Air Purifier
-
-- The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
-
 - Design of Plant Disease Diagnosis System based on Pan-Tilt For Smart Farm
-
 - Design of Body Motion Recognition System in Pan-Tilt Environment
-
 - Multi-Classification of Solar Cell Infrared Images based on CNN Model
 
+- The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
 - PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
-
 - Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
 
 </br>
@@ -149,11 +143,7 @@ Here are some ideas to get you started:
 
 ⚡ Certificate
 - Network Administrator Grade 2, 2019.07.09, ICQA
-
 - Internet Information Management Grade 2, 2018.09.21, KAIT
-
 - Linux Master Grade 2, 2018.03.23, KAIT
-
 - Digital Information Utilization Internet Information Search Advanced, 2018.03.09, KAIT
-
 - Practical Mathematics Grade 1, 2017.09.18, KOPE
