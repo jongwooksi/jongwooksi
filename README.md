@@ -67,15 +67,16 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
-- 
+
 - PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
-- 
+
 - Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
-- 
+
 - Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network (SCIE)
 
 </br>
 :book: Publication
+
 - **J. Si** and S. Kim, "Style Separation and Transfer of Korean Portrait Using Principal Component Analysis", Proc. Of the KIIT Summer Conference, 17(1), 2022.06, 52-53 (2 pages)
 
 - **J. Si** and S. Kim, "Restoration of JPEG Loss Compressed Image based on Pix2Pix : A Preliminary Study", Proc. Of the KIIT Summer Conference, 17(1), 2022.06, 53-53 (1 page)
