@@ -65,9 +65,13 @@ Here are some ideas to get you started:
 
 </br>
 📫 Scheduled Papers (TBD)
+
 - The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
+- 
 - PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
+- 
 - Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
+- 
 - Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network (SCIE)
 
 </br>
