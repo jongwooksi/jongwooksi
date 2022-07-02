@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 </br>
 📫 Scheduled Papers (TBD)
+
 - Anomaly Detection based on Image Reconstruction Using Fourier Transform
 - The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
 - PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
