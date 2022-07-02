@@ -42,24 +42,30 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- TA: 2022-1 Image Processing (CD0068-02)
-- TA: 2022-1 Introduction to Computer Engineering (CD0058-01)
+- TA: 2022-2 Multimedia Engineering (CD0016-01, CD0016-02)
+- TA: 2022-2 Deep Learning (CD0082-01)
 
 </br>
 
+✨: Teacing Assistant (TA)
+- 2022-1 Image Processing (CD0068-02)
+- 2022-1 Introduction to Computer Engineering (CD0058-01)
+- 2021-2 Multimedia Engineering (CD0016-01, CD0016-02)
+- 2021-1 Image Processing (CD0068-01)
+- 2020-2 Multimedia Engineering (CD0016-01, CD0016-02)
+- 2020-1 Image Processing (CD0068-02)
+
+</br>
 :running: Assistant
+- IoT: Raspberry Pi for Internet of Things (2022.06.27 ~ 2022.07.04)
 - Development of Computer Vision System in Raspberry Pi Environment (2022.01.11 ~ 2021.01.18)
-- Multimedia Engineering in class (2021.09.01 ~ 2021.12.31)
 - AI BigData Center Assistant (2021.03.15 ~ 2021.08.31)
 - Department Manager of Humascot, Inc. (2021.01.29 ~ 2021.08.31)
 - Data Fusion Machine Learning Project Practice [Biznium] (2021.08.12 ~ 2021.08.13)
 - Build of IoT platform using Arduino and Raspberry Pi (2021.07.12 ~ 2021.07.20)
-- Image Processing in class (2021.03.01 ~ 2021.06.30)
 - Development of Computer Vision System in Raspberry Pi Environment (2021.01.06 ~ 2021.01.12)
 - Specialized Mentoring based Major Subject - Digital System and Circuit Analysis (2020.10 ~ 2020.12)
-- Multimedia Engineering in class (2020.09.01 ~ 2020.12.31)
 - Iot Design Using Raspberry Pi Platform (2020.08.18 ~ 2020.08.31)
-- Image Processing in class (2020.03.01 ~ 2020.06.30)
 - Humanoid Robot Control Using Image Analysis (2019.12.06 ~ 2020.01.08)
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
 
@@ -131,6 +137,12 @@ Here are some ideas to get you started:
 </br>
 
 :trophy: Awards
+- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award - Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", 2022.06.03, Korean Institute of Information Technology
+
+- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Excellent Paper Award -Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", 2022.06.03, Korean Institute of Information Technology
+
+-  **J. Si**, Excellent Paper Award - Graduation, 2022.02.18, Kumoh National Institute of Technology
+
 - **J. Si**, J. Jeong, G. Kim, S. Lee and M. Jeong, "Excellent Award - Intelligent Humanoid", 2021.12.21, The chairman of the Industrial-Academic Cooperative Foundation
 
 - **J. Si** and S.Kim "Excellent Paper Award - Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", 2021.11.26, Korean Institute of Information Technology
