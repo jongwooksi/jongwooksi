@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 - Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, GAN
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
 - M.E, Computer Engineering, kit (2022. 2), Major GPA: 4.5/4.5
-- Ph.D Student, Computer Engineering, kit (2022. 2~ )
+- Ph.D Student, Computer Engineering, kit (2022. 3~ )
  </br>
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
 - TA: 2022-2 Multimedia Engineering (CD0016-01, CD0016-02)
-- TA: 2022-2 Deep Learning (CD0082-01)
+- TA: 2022-2 Deep Learning (CD0082-02)
 
 </br>
 
