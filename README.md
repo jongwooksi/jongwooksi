@@ -73,12 +73,12 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
-- Anomaly Detection based on Image Reconstruction Using Fourier Transform
-- The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells
-- PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor (SCIE)
-- Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network (SCIE)
-- Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network (SCIE)
-
+- **J. Si** and S. Kim, "Anomaly Detection based on Image Reconstruction Using Fourier Transform : A Preliminary Study", TBD
+- **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
+- **J. Si** and S. Kim, "PI-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
+- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
+- **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network", TBD (SCIE)
+- **J. Si** and S. Kim, "Surface Defect Detection Using Reconstructed Normal Template based on Fourier Transform", TBD (SCIE)
 
 </br>
 :book: Publication
