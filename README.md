@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 </br>
 
-✨: Teacing Assistant (TA)
+✨: Teaching Assistant (TA)
 - 2022-1 Image Processing (CD0068-02)
 - 2022-1 Introduction to Computer Engineering (CD0058-01)
 - 2021-2 Multimedia Engineering (CD0016-01, CD0016-02)
@@ -74,6 +74,7 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Anomaly Detection based on Image Reconstruction Using Fourier Transform : A Preliminary Study", TBD
+- **J. Si** and S. Kim, "Prediction of Temperature Abnormalities Based on Stacked-LSTM for Control System of Therno-hygrostat", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
