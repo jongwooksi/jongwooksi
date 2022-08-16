@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network", TBD (SCIE)
-- **J. Si** and S. Kim, "Surface Defect Detection Using Reconstructed Normal Template based on Fourier Transform", TBD (SCIE)
+- **J. Si** and S. Kim, "Textture Defect Detection with 2D Fourier Transform based on Simple AutoEncoder's Reconstruction", TBD (SCIE)
 
 </br>
 :book: Publication
