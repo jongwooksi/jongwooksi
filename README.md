@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Anomaly Detection based on Image Reconstruction Using Fourier Transform : A Preliminary Study", TBD
-- **J. Si** and S. Kim, "Prediction of Temperature Abnormalities Based on Stacked-LSTM for Control System of Therno-hygrostat", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
@@ -83,50 +82,51 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+- **J. Si** and S. Kim, "Prediction of Temperature Abnormalities Based on Stacked-LSTM for Control System of Therno-hygrostat", Journal of Korean Institute of Information Technology(JKIIT), Vol. 20, No.9, Sep. 2022. (Accepted)
 
-- **J. Si** and S. Kim, "Style Separation and Transfer of Korean Portrait Using Principal Component Analysis", Proc. Of the KIIT Summer Conference, 17(1), 2022.06, 52-53 (2 pages)
+- **J. Si** and S. Kim, "Style Separation and Transfer of Korean Portrait Using Principal Component Analysis", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.51-52, Jun. 2022.
 
-- **J. Si** and S. Kim, "Restoration of JPEG Loss Compressed Image based on Pix2Pix : A Preliminary Study", Proc. Of the KIIT Summer Conference, 17(1), 2022.06, 53-53 (1 page)
+- **J. Si** and S. Kim, "Restoration of JPEG Loss Compressed Image based on Pix2Pix : A Preliminary Study", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.53-53, Jun. 2022.
 
-- M. Kim, **J. Si**, and S. Kim, "Development of a Touch Display for Automatic Control of Air Purifier", Proc. Of the KIIT Summer Conference, 17(1), 2022.06, 63-64 (2 pages)
+- M. Kim, **J. Si**, and S. Kim, "Development of a Touch Display for Automatic Control of Air Purifier", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.63-64, Jun. 2022.
 
-- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", Proc. Of the KIIT Summer Conference, 17(1), 2022.06, 295-296 (2 pages)
+- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.295-296, Jun. 2022.
 
-- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", Proc. Of the KIIT Summer Conference, 17(1), 2022.06, 311-312 (2 pages)
+- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.311-312, Jun. 2022.
 
-- **J. Si** and S. Kim, "Multi-Classification of Solar Cell Infrared Images based on CNN Model", Proc. Of the KMMS Spring Conference, 2022.05 (2 pages)
+- **J. Si** and S. Kim, "Multi-Classification of Solar Cell Infrared Images based on CNN Model", Proc. Of  Korea Multimedia Society Conference, pp.1-3, May. 2022.
 
-- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), 20(3), 2022.03, 137-146 (10 pages)
+- **J. Si** and S. Kim, "Golf Swing Analysis Using Multiple Golf Swing Trajectories", Journal of Korean Institute of Information Technology(JKIIT), Vol. 20, No.3, pp.137-146, Mar. 2022.
  
-- **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, 2022.02 (Master Thesis)
+- **J. Si**, "Style Transfer From Korean Portraits to ID Photos based on GAN, Kumoh National Institute of Technology, Dec. 2021. (Master Thesis)
 
-- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding (IPIU 2022), Vol.34, pp.1-3, 2022.02 
+- **J. Si** and S. Kim, "Moon Classification based on 2 level Hough Circle Transform", Workshop on Image Processing and Image Understanding (IPIU 2022), Vol.34, pp.1-3, Feb. 2022. 
 
-- **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 109-111 (3 pages)
+- **J. Si** and S. Kim, "Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", Proc. Of Korean Institute of Information Technology Conference, Vol.16, No.2, pp.109-111, Nov. 2021.
 
-- **J. Si**, S. Lee, and S. Kim, "Volume Calculation of Mold by Analyzing STP Files: Preliminary Study", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 112-113 (2 pages)
+- **J. Si**, S. Lee, and S. Kim, "Volume Calculation of Mold by Analyzing STP Files: Preliminary Study", Proc. Of Korean Institute of Information Technology Conference, Vol.16, No.2, pp.112-113, Nov. 2021.
 
-- J. Jeong, G. Kim, S. Lee, M. Jeong, **J. Si**, and S. Kim, "Design of Virtual Electronic Circuit Simulator in Metaverse Environment", Proc. Of the 2021 KIIT Fall Conference, 16(2), 2021.11, 547-549 (3 pages)
+- J. Jeong, G. Kim, S. Lee, M. Jeong, **J. Si**, and S. Kim, "Design of Virtual Electronic Circuit Simulator in Metaverse Environment", Proc. Of Korean Institute of Information Technology Conference, Vol.16, No.2, pp.547-549, Nov. 2021.
 
-- **J. Si**, M. Kim, and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), 19(8), 2021.8, 1-10 (10 pages)
+- **J. Si**, M. Kim, and S. Kim, "Converting Close-Looped Electronic Circuit Image with Single IO Symbol into Netlist", Journal of Korean Institute of Information Technology(JKIIT), Vol.19, No.8, pp.1-10, Aug. 2021.
 
-- **J. Si** and S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 19-21 (3 pages)
+- **J. Si** and S. Kim, "Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", Proc. Of Korean Institute of Information Technology Conference, Vol.16, No.1, pp.19-21, Jun. 2021.
 
-- H. Son, M. Kim, **J. Si**, C. Lee, and S. Kim, "Pan-tilt Angle Mapping Method using Monocular Camera and Point-to-Point LiDAR Sensor", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 22-23 (2 pages)
+- H. Son, M. Kim, **J. Si**, C. Lee, and S. Kim, "Pan-tilt Angle Mapping Method using Monocular Camera and Point-to-Point LiDAR Sensor", Proc. Of Korean Institute of Information Technology Conference, Vol.16, No.1, pp.22-23, Jun. 2021.
 
-- **J. Si**, C. Lee, and S. Kim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of the 2021 KIIT Summer Conference, 16(1), 2021.06, 29-31 (3 pages)
+- **J. Si**, C. Lee, and S. Kim, "Development of a Train Reservation Application Voice Guide System Using RGB Camera", Proc. Of Korean Institute of Information Technology Conference, Vol.16, No.1, pp.29-31, Jun. 2021.
 
-- **J. Si** and S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), 19(3), 2021.3, 25-34 (10 pages)
+- **J. Si** and S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), Vol.19, No.3, pp.25-34, Mar. 2021.
 
-- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim, and S. Kim, "Fall Detection Using Skeletal Coordinate Vector and LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), 18(12), 2020.12, 19-28 (10 pages)
+- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim, and S. Kim, "Fall Detection Using Skeletal Coordinate Vector and LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), Vol.18, No.12, pp.19-28, De. 2020.
 
-- **J. Si**, J. Jeong, G. Kim, and S. Kim, "Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", Proc. Of the 2020 KIIT Conference, 15(1), 2020.10, 147-149(3 pages)
+- **J. Si**, J. Jeong, G. Kim, and S. Kim, "Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", Proc. Of Korean Institute of Information Technology Conference, Vol.15, No.1, pp.147-149, Oc. 2020.
 
-- D. Kim, H. Son, **J. Si**, and S. Kim, "Traffic Accident Detection Based on Ego Motion and Object Tracking", Journal of Advanced Information Technology and Convergence(JAITC), 10(1), 2020.7, 15-23 (9 pages)
+- D. Kim, H. Son, **J. Si**, and S. Kim, "Traffic Accident Detection Based on Ego Motion and Object Tracking", Journal of Advanced Information Technology and Convergence(JAITC), Vol.10, No.1, pp.15-23, Jul. 2020.
 
-- H. Son, **J. Si**, D. Kim, Y. Lee, and S. Kim, "Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", Proc. Of Korea Society of Computer and Information Conferenece, 28(2), 2020.7, 71-72(2 pages)
+- H. Son, **J. Si**, D. Kim, Y. Lee, and S. Kim, "Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", Proc. Of Korea Society of Computer and Information Conferenece, Vol.28, No.2, pp.71-72, Jul. 2020.
 
-- **J. Si**, M. Kim, and S. Kim, "Wire Removal and Recognition on Circuit Elements on Electronic Schematics", Proc. Of 2020 The 2nd International Workshop on Future Technology (FUTECH 2020), 37, 2020.1, 68-70 (3 pages)
+- **J. Si**, M. Kim, and S. Kim, "Wire Removal and Recognition on Circuit Elements on Electronic Schematics", Proc. Of International Workshop on Future Technology (FUTECH 2020), Vol.37, pp.68-70, Jan. 2020.
 
 </br>
 
