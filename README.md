@@ -82,6 +82,7 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+
 - **J. Si** and S. Kim, "Prediction of Temperature Abnormalities Based on Stacked-LSTM for Control System of Therno-hygrostat", Journal of Korean Institute of Information Technology(JKIIT), Vol. 20, No.9, Sep. 2022. (Accepted)
 
 - **J. Si** and S. Kim, "Style Separation and Transfer of Korean Portrait Using Principal Component Analysis", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.51-52, Jun. 2022.
