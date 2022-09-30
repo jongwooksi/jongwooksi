@@ -72,6 +72,7 @@ Here are some ideas to get you started:
 
 </br>
 📫 Scheduled Papers (TBD)
+
 - **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", TBD
 - **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", TBD
 - G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Development of Smart Alarm IoT Systemin Raspberry Pi Environment", TBD
@@ -136,6 +137,7 @@ Here are some ideas to get you started:
 </br>
 
 :two_men_holding_hands: PROJECT
+
 - Development of Multi-purpose Unmanned Pest Monitoring System (The Ministry of SMEs and Startups), 2022-08-01~2023-04-30
 - AI Prevention Autonomous Control Robot Development (Kumoh National Institute of Technoloy, LINK 3.0), 2022-08-01~2022-12-31
 - Development of underground control panel technology with AR air pocket technology (The Ministry of SMEs and Startups), 2021-09-06 ~ 2023-09-05
