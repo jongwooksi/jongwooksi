@@ -72,8 +72,12 @@ Here are some ideas to get you started:
 
 </br>
 📫 Scheduled Papers (TBD)
-
-- **J. Si** and S. Kim, "Anomaly Detection based on Image Reconstruction Using Fourier Transform : A Preliminary Study", TBD
+- **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", TBD
+- **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", TBD
+- G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Development of Smart Alarm IoT Systemin Raspberry Pi Environment", TBD
+- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Development of an Application that Can Manage the Underground Control Panel", TBD
+- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Data Visualization and GUI Development for Good Quality Determination", TBD
+- M. Jeong, S. Lee, **J. Si** and S. Kim, "Development of Health Bike Racing Game Based on Virtual Realit", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
@@ -132,9 +136,11 @@ Here are some ideas to get you started:
 </br>
 
 :two_men_holding_hands: PROJECT
-- Development of underground control panel technology with AR air pocket technology(The Ministry of SMEs and Startups), (2021-09-06 ~ 2023-09-05)
-- Advancement of Casting Process Manufacturing Data and Development of Technology for joint Utilization, (2020-09-01 ~ 2021-01-31)
-- A Study on the Semantic Analysis of Cyber Attacks and the Establishment of Knowledge Database (ETRI), (2019-06-01 ~ 2019-11-30)
+- Development of Multi-purpose Unmanned Pest Monitoring System (The Ministry of SMEs and Startups), 2022-08-01~2023-04-30
+- AI Prevention Autonomous Control Robot Development (Kumoh National Institute of Technoloy, LINK 3.0), 2022-08-01~2022-12-31
+- Development of underground control panel technology with AR air pocket technology (The Ministry of SMEs and Startups), 2021-09-06 ~ 2023-09-05
+- Advancement of Casting Process Manufacturing Data and Development of Technology for joint Utilization, 2020-09-01 ~ 2021-01-31
+- A Study on the Semantic Analysis of Cyber Attacks and the Establishment of Knowledge Database (ETRI), 2019-06-01 ~ 2019-11-30
 
 </br>
 
