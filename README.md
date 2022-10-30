@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", Proc. Of Korean Institutd of Information, Electronics, and Communication Technology Conference, Vol. 15, No. 2, pp.48-49, Oct. 2022.
+- **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, Vol. 15, No. 2, pp.48-49, Oct. 2022.
 
 - **J. Si** and S. Kim, "Prediction of Temperature Abnormality Based on Stacked LSTM for Control System of Therno-hygrostat", Journal of Korean Institute of Information Technology(JKIIT), Vol. 20, No.10, Oct. 2022.
 
