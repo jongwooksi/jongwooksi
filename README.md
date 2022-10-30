@@ -73,12 +73,11 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
-- **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", TBD
 - **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", TBD
 - G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Development of Smart Alarm IoT Systemin Raspberry Pi Environment", TBD
-- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Development of an Application that Can Manage the Underground Control Panel", TBD
-- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Data Visualization and GUI Development for Good Quality Determination", TBD
-- M. Jeong, S. Lee, **J. Si** and S. Kim, "Development of Health Bike Racing Game Based on Virtual Realit", TBD
+- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Development of an Application for Underground Control Panel Management", TBD
+- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", TBD
+- S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Development Indoor Bike Racing Game in Virtual Reality Environment", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
@@ -88,17 +87,19 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "Prediction of Temperature Abnormality Based on Stacked LSTM for Control System of Therno-hygrostat", Journal of Korean Institute of Information Technology(JKIIT), Vol. 20, No.9, Sep. 2022. (Accepted)
+- **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", Proc. Of Korean Institutd of Information, Electronics, and Communication Technology Conference, Vol. 15, No. 2, pp.48-49, Oct. 2022.
 
-- **J. Si** and S. Kim, "Style Separation and Transfer of Korean Portrait Using Principal Component Analysis", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.51-52, Jun. 2022.
+- **J. Si** and S. Kim, "Prediction of Temperature Abnormality Based on Stacked LSTM for Control System of Therno-hygrostat", Journal of Korean Institute of Information Technology(JKIIT), Vol. 20, No.10, Oct. 2022.
 
-- **J. Si** and S. Kim, "Restoration of JPEG Loss Compressed Image based on Pix2Pix : A Preliminary Study", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.53-53, Jun. 2022.
+- **J. Si** and S. Kim, "Style Separation and Transfer of Korean Portrait Using Principal Component Analysis", Proc. Of Korean Institute of Information Technology Conference, Vol.17, No.1, pp.51-52, Jun. 2022.
 
-- M. Kim, **J. Si**, and S. Kim, "Development of a Touch Display for Automatic Control of Air Purifier", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.63-64, Jun. 2022.
+- **J. Si** and S. Kim, "Restoration of JPEG Loss Compressed Image based on Pix2Pix : A Preliminary Study", Proc. Of Korean Institute of Information Technology Conference, Vol.17, No.1, pp.53-53, Jun. 2022.
 
-- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.295-296, Jun. 2022.
+- M. Kim, **J. Si**, and S. Kim, "Development of a Touch Display for Automatic Control of Air Purifier", Proc. Of Korean Institute of Information Technology Conference, Vol.17, No.1, pp.63-64, Jun. 2022.
 
-- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", Proc. Korean Institute of Information Technology Conference, Vol.17, No.1, pp.311-312, Jun. 2022.
+- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", Proc. Of Korean Institute of Information Technology Conference, Vol.17, No.1, pp.295-296, Jun. 2022.
+
+- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", Proc. Of Korean Institute of Information Technology Conference, Vol.17, No.1, pp.311-312, Jun. 2022.
 
 - **J. Si** and S. Kim, "Multi-Classification of Solar Cell Infrared Images based on CNN Model", Proc. Of  Korea Multimedia Society Conference, pp.1-3, May. 2022.
 
