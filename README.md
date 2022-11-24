@@ -73,11 +73,6 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
-- **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", TBD
-- G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Development of Smart Alarm IoT Systemin Raspberry Pi Environment", TBD
-- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Development of an Application for Underground Control Panel Management", TBD
-- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", TBD
-- S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Development Indoor Bike Racing Game in Virtual Reality Environment", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
@@ -86,6 +81,18 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+
+- S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Anomaly Diagnosis of Fan Unit Motor Using IMU Sensor and PZT Acceleration Sensor", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+
+- **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+
+- G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Development of Smart Alarm IoT Systemin Raspberry Pi Environment", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+
+- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Development of an Application for Underground Control Panel Management", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+
+- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+
+- S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Development Indoor Bike Racing Game in Virtual Reality Environment",  Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
 
 - **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, Vol. 15, No. 2, pp.48-49, Oct. 2022.
 
