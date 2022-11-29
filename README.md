@@ -82,17 +82,17 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Anomaly Diagnosis of Fan Unit Motor Using IMU Sensor and PZT Acceleration Sensor", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+- S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Anomaly Diagnosis of Fan Unit Motor Using IMU Sensor and PZT Acceleration Sensor", Proc. Of Korean Institute of Information Technology Conference, pp.85-85, Dec. 2022.
 
-- **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+- **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", Proc. Of Korean Institute of Information Technology Conference, pp.86-87, Dec. 2022.
 
-- G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Development of Smart Alarm IoT Systemin Raspberry Pi Environment", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", Proc. Of Korean Institute of Information Technology Conference, pp.329-330, Dec. 2022.
 
-- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Development of an Application for Underground Control Panel Management", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Development of an Application for Underground Control Panel Management", Proc. Of Korean Institute of Information Technology Conference, pp.331-332, Dec. 2022.
 
-- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+- G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Development of Smart Alarm IoT Systemin Raspberry Pi Environment", Proc. Of Korean Institute of Information Technology Conference, pp.349-350, Dec. 2022.
 
-- S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Development Indoor Bike Racing Game in Virtual Reality Environment",  Proc. Of Korean Institute of Information Technology Conference, Dec. 2022.
+- S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Development Indoor Bike Racing Game in Virtual Reality Environment",  Proc. Of Korean Institute of Information Technology Conference, pp.351-352, Dec. 2022.
 
 - **J. Si** and S. Kim, "Carpet Pattern Defect Detection Using Average Filtering and Morphology", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, Vol. 15, No. 2, pp.48-49, Oct. 2022.
 
