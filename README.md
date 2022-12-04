@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Anomaly Diagnosis of Fan Unit Motor Using IMU Sensor and PZT Acceleration Sensor", Proc. Of Korean Institute of Information Technology Conference, pp.85-85, Dec. 2022.
+- S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Fan Unit Motor Condition Monitoring with IMU and PZT Acceleration Sensors", Proc. Of Korean Institute of Information Technology Conference, pp.85-85, Dec. 2022.
 
 - **J. Si** and S. Kim, "Surface Anomaly Detection of Wood Grain Image Using Fourier Transform : A Preliminary Study", Proc. Of Korean Institute of Information Technology Conference, pp.86-87, Dec. 2022.
 
