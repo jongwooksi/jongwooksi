@@ -155,7 +155,18 @@ Here are some ideas to get you started:
 </br>
 
 :trophy: Awards
-- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award - Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", 2022.06.03, Korean Institute of Information Technology
+
+- S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Excellent Paper Award - Fan Unit Motor Condition Monitoring with IMU and PZT Acceleration Sensors", 2022.12.02, Korean Institute of Information Technology
+
+- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Excellent Paper Award - Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", 2022.12.02,  Korean Institute of Information Technology
+
+- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Excellent Paper Award - Development of an Application for Underground Control Panel Management", 2022.12.02, Korean Institute of Information Technology
+
+- G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Excellent Paper Award - Development of Smart Alarm IoT Systemin Raspberry Pi Environment", 2022.12.02, Korean Institute of Information Technology
+
+- S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Excellent Paper Award - Development Indoor Bike Racing Game in Virtual Reality Environment", 2022.12.02, Korean Institute of Information Technology
+
+- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award - Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", 2022.06.03, Korean Institute of Information Technology
 
 - M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Excellent Paper Award -Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", 2022.06.03, Korean Institute of Information Technology
 
