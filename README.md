@@ -11,6 +11,8 @@
   <img src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Arduino-979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/></a>
  </p>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongwooksi&show_icons=true&theme={theme})](https://github.com/jongwooksi/github-readme-stats)
@@ -42,12 +44,13 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- TA: 2022-2 Multimedia Engineering (CD0016-01, CD0016-02)
-- TA: 2022-2 Deep Learning (CD0082-02)
+
 
 </br>
 
 ✨: Teaching Assistant (TA)
+- 2022-2 Multimedia Engineering (CD0016-01, CD0016-02)
+- 2022-2 Deep Learning (CD0082-02)
 - 2022-1 Image Processing (CD0068-02)
 - 2022-1 Introduction to Computer Engineering (CD0058-01)
 - 2021-2 Multimedia Engineering (CD0016-01, CD0016-02)
