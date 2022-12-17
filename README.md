@@ -171,9 +171,9 @@ Here are some ideas to get you started:
 
 - S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Excellent Paper Award - Development Indoor Bike Racing Game in Virtual Reality Environment", 2022.12.02, Korean Institute of Information Technology
 
-- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award - Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", 2022.06.03, Korean Institute of Information Technology
+- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award - Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", 2022.06.03, Korean Institute of Information Technology
 
-- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Excellent Paper Award -Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", 2022.06.03, Korean Institute of Information Technology
+- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Excellent Paper Award -Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", 2022.06.03, Korean Institute of Information Technology
 
 -  **J. Si**, Excellent Paper Award - Graduation, 2022.02.18, Kumoh National Institute of Technology
 
