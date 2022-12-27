@@ -152,7 +152,8 @@ Here are some ideas to get you started:
 :two_men_holding_hands: PROJECT
 
 - Development of Multi-purpose Unmanned Pest Monitoring System (The Ministry of SMEs and Startups), 2022-08-01~2023-04-30
-- AI Prevention Autonomous Control Robot Development (Kumoh National Institute of Technoloy, LINK 3.0), 2022-08-01~2022-12-31
+- 인공지능 무인 병해충 감시 시스템 개발을 통한 캡스톤디자인 AI 프로젝트 샘플 생성, 인공지능혁신공유대학사업단, 2022-09-01 ~ 2023-01-13
+- AI Prevention Autonomous Control Robot Development (Kumoh National Institute of Technoloy, LINC 3.0), 2022-08-01~2022-12-31
 - Development of underground control panel technology with AR air pocket technology (The Ministry of SMEs and Startups), 2021-09-06 ~ 2023-09-05
 - Advancement of Casting Process Manufacturing Data and Development of Technology for joint Utilization, 2020-09-01 ~ 2021-01-31
 - A Study on the Semantic Analysis of Cyber Attacks and the Establishment of Knowledge Database (ETRI), 2019-06-01 ~ 2019-11-30
