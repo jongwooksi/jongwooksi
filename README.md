@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "Performance Analysis of Traffic Sign Detection in the Testbed Environment: A Preliminary Study", Proc. Of Korea Society of Computer and Information Conferenece, Vol.30, No.1, Jan. 2023.(Under Review)
+- **J. Si** and S. Kim, "Performance Analysis of Traffic Sign Detection in the Testbed Environment: A Preliminary Study", Proc. Of Korea Society of Computer and Information Conferenece, Vol.31, No.1, pp.7-8, Jan. 2023.
 
 - S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Fan Unit Motor Condition Monitoring with IMU and PZT Acceleration Sensors", Proc. Of Korean Institute of Information Technology Conference, pp.85-85, Dec. 2022.
 
