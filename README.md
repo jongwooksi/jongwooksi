@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
 - 2023-1 Metaverse design & development (CF0026-01)
-- 2023-1 Creative Design Project 1 (CD0033-03)
+- 2023-1 Creative Design Project 1 (CD0033-02)
 
 </br>
 
