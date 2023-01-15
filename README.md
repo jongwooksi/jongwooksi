@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - Iot Design Using Raspberry Pi Platform (2020.08.18 ~ 2020.08.31)
 - Humanoid Robot Control Using Image Analysis (2019.12.06 ~ 2020.01.08)
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
-
+ 
 </br>
 📫 Scheduled Papers (TBD)
 
