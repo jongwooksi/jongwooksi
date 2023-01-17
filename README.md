@@ -77,6 +77,7 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
+- **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest ", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
