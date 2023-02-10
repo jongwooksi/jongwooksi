@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
-- **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Time Series Data in Injection Molding through EDA based on Generative Adversarial Learning", TBD
+- **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning", TBD
 - **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest ", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
