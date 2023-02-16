@@ -62,6 +62,9 @@ Here are some ideas to get you started:
 </br>
 :running: Assistant
 
+- Gyeongbuk-type Human Resources Development-Employment-linked Metaverse Academy (2023.02.07 ~ 2023.02.10)
+- Major Certificate Intensive Camp - Microsoft International Certification (2023.01.16 ~ 2023.01.20)
+- Metaverse Academy Training – Developing Realistic Content Using Unity 3D (2022.09.01 ~ 2022.12.21)
 - IoT: Raspberry Pi for Internet of Things (2022.06.27 ~ 2022.07.04)
 - Development of Computer Vision System in Raspberry Pi Environment (2022.01.11 ~ 2021.01.18)
 - AI BigData Center Assistant (2021.03.15 ~ 2021.08.31)
