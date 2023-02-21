@@ -80,7 +80,6 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
-- **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning", TBD
 - **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest ", TBD
 - **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
@@ -90,6 +89,7 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+- **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning",  Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
 - **J. Si** and S. Kim, "Performance Analysis of Traffic Sign Detection in the Testbed Environment: A Preliminary Study", Proc. Of Korea Society of Computer and Information Conferenece, Vol.31, No.1, pp.7-8, Jan. 2023.
 
