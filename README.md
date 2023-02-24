@@ -44,9 +44,10 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- 2023-1 Metaverse design & development (CF0026-01)
-- 2023-1 Creative Design Project 1 (CD0033-02)
-
+- [Class Assistant] 2023-1 Metaverse design & development (CF0026-01)
+- [Class Assistant] 2023-1 Creative Design Project 1 (CD0033-02)
+- [Lecture] 2023-1 Business Programming (BD0005-01)
+- [Lecture] 2023-1 Basic Software for Majors (BA0017-23)
 </br>
 
 ✨: Teaching Assistant (TA)
