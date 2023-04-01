@@ -92,6 +92,7 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", UnderReview
 
 - **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), UnderReview
