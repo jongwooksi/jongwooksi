@@ -81,15 +81,20 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
-- **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest ", TBD
-- **J. Si** and S. Kim, "The Alignment Technique of the Subtraction Image for Anomaly Detection in Infrared Images of Solar Cells", TBD
-- **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", TBD (SCIE)
-- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images based on Generative Adversarial Network", TBD (SCIE)
+- **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest", TBD
+- **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality", TBD
+- J. Kim, **J. Si**, S. Son, J. Song and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality", TBD
+- S. Son, **J. Si**, J. Song, D. Kim and S. Kim, "Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model", TBD
+- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", TBD (Int. Conf.)
+- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stoping Discriminator", TBD (SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network", TBD (SCIE)
 - **J. Si** and S. Kim, "Texture Defect Detection with 2D Fourier Transform based on Simple AutoEncoder's Reconstruction", TBD (SCIE)
 
 </br>
 :book: Publication
+- **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", UnderReview
+
+- **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), UnderReview
 
 - **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning",  Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
