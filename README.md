@@ -80,6 +80,7 @@ Here are some ideas to get you started:
  
 </br>
 📫 Scheduled Papers (TBD)
+
 - **J. Si** and S. Kim, "Defect Detection of Reconstruction Methods with Color Histogram Loss Function", TBD
 - **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest", TBD
 - **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality", TBD
