@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 </br>
 📫 Scheduled Papers (TBD)
 
+- **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System for Disease Detection in vinyl greenhouse: Efficient Monitoring with Database", TBD
 - **J. Si** and S. Kim, "Defect Detection of Reconstruction Methods with Color Histogram Loss Function", TBD
 - **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest", TBD
 - **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality", TBD
@@ -94,9 +95,9 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor", UnderReview
+- **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor with GAN", UnderReview
 
-- **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), UnderReview
+- **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
 - **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning",  Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
