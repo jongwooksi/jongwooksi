@@ -167,6 +167,9 @@ Here are some ideas to get you started:
 
 :two_men_holding_hands: PROJECT
 
+- 객체 인식을 통한 O2O 자동 상점 시스템 개발, 중소벤터기업부, 2023-04-01~2025-03-31
+- 메에인: 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트, 한국전파진흥협회, 2023-05-01~2025-12-31
+- 지역혁신클러스터육성 2기(경북) : 지역혁신 계약LAB, 경북테크노파크, 2023-01-01~2027-12-31
 - Development of Multi-purpose Unmanned Pest Monitoring System (The Ministry of SMEs and Startups), 2022-08-01~2023-04-30
 - 인공지능 무인 병해충 감시 시스템 개발을 통한 캡스톤디자인 AI 프로젝트 샘플 생성, 인공지능혁신공유대학사업단, 2022-09-01 ~ 2023-01-13
 - AI Prevention Autonomous Control Robot Development (Kumoh National Institute of Technoloy, LINC 3.0), 2022-08-01~2022-12-31
