@@ -82,12 +82,6 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System for Disease Detection in vinyl greenhouse: Efficient Monitoring with Database", TBD
-- **J. Si** and S. Kim, "Defect Detection of Reconstruction Methods with Color Histogram Loss Function", TBD
-- **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest", TBD
-- **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality", TBD
-- J. Kim, **J. Si**, S. Son, J. Song and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality", TBD
-- S. Son, **J. Si**, J. Song, D. Kim and S. Kim, "Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model", TBD
-- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", TBD (Int. Conf.)
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stoping Discriminator", TBD (SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network", TBD (SCIE)
 - **J. Si** and S. Kim, "Texture Defect Detection with 2D Fourier Transform based on Simple AutoEncoder's Reconstruction", TBD (SCIE)
@@ -95,7 +89,20 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
+- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention, UnderReview
+
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor with GAN", UnderReview
+
+- **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference
+
+- **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference
+
+- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference
+
+- S. Son, **J. Si**, J. Song, and S. Kim, "Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conference
+
+- **J. Si** and S. Kim, "Defect Detection of Reconstruction Methods with Color Histogram Loss Function", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference
+
 
 - **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
