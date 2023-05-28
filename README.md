@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 
 - S. Son, **J. Si**, J. Song, and S. Kim, "Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conference
 
-- **J. Si** and S. Kim, "Defect Detection of Reconstruction Methods with Color Histogram Loss Function", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference
+- **J. Si** and S. Kim, "Defect Detection of Reconstruction Methods with Color Histogram Loss Function",  Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, Vol. 16, No. 1, pp.73-75, Mar. 2023.
 
 
 - **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), Accepted
