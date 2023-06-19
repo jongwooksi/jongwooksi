@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 129-129, Jun. 2023.
 
-- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, Crop Disease Detection System Based on Object Detection Using a Cloud Environment and Database",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 670-671, Jun. 2023.
+- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Crop Disease Detection System Based on Object Detection Using a Cloud Environment and Database",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 670-671, Jun. 2023.
 
 - S. Son, **J. Si**, J. Song, and S. Kim, "Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 1013-1014, Jun. 2023. 
 
@@ -190,6 +190,14 @@ Here are some ideas to get you started:
 
 :trophy: Awards
 
+- **J. Si** and S. Kim, "Excellent Paper Award - Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
+
+- **J. Si** and S. Kim, "Excellent Paper Award - Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
+
+- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Excellent Paper Award - Crop Disease Detection System Based on Object Detection Using a Cloud Environment and Database",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
+
+- S. Son, **J. Si**, J. Song, and S. Kim, "Excellent Paper Award - Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conferenc, 2023.06.02, Korean Institute of Information Technology
+- 
 - S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Excellent Paper Award - Fan Unit Motor Condition Monitoring with IMU and PZT Acceleration Sensors", 2022.12.02, Korean Institute of Information Technology
 
 - J. Jeong, M. Jeong, **J. Si** and S. Kim, "Excellent Paper Award - Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", 2022.12.02,  Korean Institute of Information Technology
