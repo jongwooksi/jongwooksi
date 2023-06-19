@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference (ICIECT), TBD
 - J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", TBD
 - D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", TBD
-- **J. Si**, and S. Kim, "mproving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", TBD
+- **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", TBD
 - S. Yang, **J. Si**, and S. Kim, "Development of a Unity-Based Interview Room Prototype for Virtual Interviews in a Metaverse Environment", TBD
 - J. Kim, G. Kim, **J. Si**, and S. Kim, "Development of Pepper Disease Detection Application based on Object Detection using Mobile Camera", TBD
 - **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System for Disease Detection in vinyl greenhouse: Efficient Monitoring with Database", TBD
