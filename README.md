@@ -79,7 +79,7 @@ Here are some ideas to get you started:
  
 </br>
 📫 Scheduled Papers (TBD)
-
+- **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference (ICIECT), TBD
 - J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", TBD
 - D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", TBD
 - **J. Si**, and S. Kim, "mproving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", TBD
@@ -196,8 +196,8 @@ Here are some ideas to get you started:
 
 - J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Excellent Paper Award - Crop Disease Detection System Based on Object Detection Using a Cloud Environment and Database",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
 
-- S. Son, **J. Si**, J. Song, and S. Kim, "Excellent Paper Award - Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conferenc, 2023.06.02, Korean Institute of Information Technology
-- 
+- S. Son, **J. Si**, J. Song, and S. Kim, "Excellent Paper Award - Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
+ 
 - S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Excellent Paper Award - Fan Unit Motor Condition Monitoring with IMU and PZT Acceleration Sensors", 2022.12.02, Korean Institute of Information Technology
 
 - J. Jeong, M. Jeong, **J. Si** and S. Kim, "Excellent Paper Award - Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", 2022.12.02,  Korean Institute of Information Technology
