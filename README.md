@@ -89,28 +89,26 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stoping Discriminator", TBD (SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network", TBD (SCIE)
 - **J. Si** and S. Kim, "Texture Defect Detection with 2D Fourier Transform based on Simple AutoEncoder's Reconstruction", TBD (SCIE)
-
+- **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor with GAN", TBD (SCIE)
+  
 </br>
 :book: Publication
 
 - **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention, Accepted
 
-- **J. Si** and S. Kim, "PP-GAN : Style Transfer From Korean Portraits to ID Photos Using Landmark Extractor with GAN", UnderReview
+- **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 127-128, Jun. 2023.
 
-- **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference
+- **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 129-129, Jun. 2023.
 
-- **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference
+- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, Crop Disease Detection System Based on Object Detection Using a Cloud Environment and Database",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 670-671, Jun. 2023.
 
-- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference
-
-- S. Son, **J. Si**, J. Song, and S. Kim, "Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conference
+- S. Son, **J. Si**, J. Song, and S. Kim, "Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 1013-1014, Jun. 2023. 
 
 - **J. Si** and S. Kim, "Defect Detection of Reconstruction Methods with Color Histogram Loss Function",  Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, Vol. 16, No. 1, pp.73-75, Mar. 2023.
 
+- **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), Vol. 21, No. 5, pp.11-19, May. 2023.
 
-- **J. Si** and S. Kim, "Difference Image Alignment Technique of Reconstruction Method for Detecting Defects in Thermal Image of Solar Cells", Journal of Korean Institute of Information Technology(JKIIT), Accepted
-
-- **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning",  Journal of Korean Institute of Information Technology(JKIIT), Accepted
+- **J. Si**, J. Jeong, M, Jeong, and S. Kim, "Anomaly Detection of Injection Molding Using Statistics-Based Feature Selection and Generative Adversarial Learning",  Journal of Korean Institute of Information Technology(JKIIT), Vol. 21, No. 4, pp.11-20, Apr. 2023.
 
 - **J. Si** and S. Kim, "Performance Analysis of Traffic Sign Detection in the Testbed Environment: A Preliminary Study", Proc. Of Korea Society of Computer and Information Conferenece, Vol.31, No.1, pp.7-8, Jan. 2023.
 
