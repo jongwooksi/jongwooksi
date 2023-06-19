@@ -79,6 +79,7 @@ Here are some ideas to get you started:
  
 </br>
 📫 Scheduled Papers (TBD)
+
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference (ICIECT), TBD
 - J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", TBD
 - D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", TBD
