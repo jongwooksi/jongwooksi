@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=Keras&logoColor=white"/></a>
  </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jongwooksi&show_icons=true&theme={theme})](https://github.com/jongwooksi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongwooksi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -83,8 +82,9 @@ Here are some ideas to get you started:
 
 - J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", TBD
 - D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", TBD
-- **J. Si**, and S. Kim, "Enhancing Performance of Texture Defect Detection in DRAEM through Unsharp Masking with High-Frequency Emphasis Filtering", TBD
+- **J. Si**, and S. Kim, "mproving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", TBD
 - S. Yang, **J. Si**, and S. Kim, "Development of a Unity-Based Interview Room Prototype for Virtual Interviews in a Metaverse Environment", TBD
+- J. Kim, G. Kim, **J. Si**, and S. Kim, "Development of Pepper Disease Detection Application based on Object Detection using Mobile Camera", TBD
 - **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System for Disease Detection in vinyl greenhouse: Efficient Monitoring with Database", TBD
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stoping Discriminator", TBD (SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Serial Autoencoder based on Generative Adversarial Network", TBD (SCIE)
