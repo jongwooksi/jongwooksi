@@ -87,9 +87,9 @@ Here are some ideas to get you started:
 
 📫 Preprint Paper
 
-- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator", https://arxiv.org/abs/2306.12757 ,(TBD, SCIE)
-- **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder", https://arxiv.org/abs/2306.12057 ,(TBD, SCIE)
-- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", https://arxiv.org/abs/2306.13418 ,(TBD, SCIE)
+- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator", https://arxiv.org/abs/2306.12757 (TBD, SCIE)
+- **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder", https://arxiv.org/abs/2306.12057 (TBD, SCIE)
+- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", https://arxiv.org/abs/2306.13418 (TBD, SCIE)
 
   
 </br>
