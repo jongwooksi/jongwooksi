@@ -100,15 +100,15 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", Proc. Of Korea Society of Computer and Information Conferenece, UnderReview
+- **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
 
-- J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", Proc. Of Korea Society of Computer and Information Conferenece, UnderReview
+- J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
   
-- D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", Proc. Of Korea Society of Computer and Information Conferenece, UnderReview
+- D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
  
-- S. Yang, **J. Si**, and S. Kim, "Development of a Unity-Based Interview Room Prototype for Virtual Interviews in a Metaverse Environment", Proc. Of Korea Society of Computer and Information Conferenece, UnderReview
+- S. Yang, **J. Si**, and S. Kim, "Development of a Unity-Based Interview Room Prototype for Virtual Interviews in a Metaverse Environment", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
  
-- J. Kim, G. Kim, **J. Si**, and S. Kim, "Development of Pepper Disease Detection Application based on Object Detection using Mobile Camera", Proc. Of Korea Society of Computer and Information Conferenece, UnderReview
+- J. Kim, G. Kim, **J. Si**, and S. Kim, "Development of Pepper Disease Detection Application based on Object Detection using Mobile Camera", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
  
 - **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention, Accepted
 
