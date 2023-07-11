@@ -87,7 +87,6 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
 - **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System for Disease Detection in vinyl greenhouse: Efficient Monitoring with Database", TBD
-- **J. Si** and S. Kim, "TFR : Texture Defect Detection with 2D Fourier Transform using Normal Reconstructed Template of Simple Autoencoder", TBD (SCIE)
 
 
 📫 Preprint Paper
@@ -95,23 +94,23 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator", https://arxiv.org/abs/2306.12757 (TBD, SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder", https://arxiv.org/abs/2306.12057 (TBD, SCIE)
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", https://arxiv.org/abs/2306.13418 (TBD, SCIE)
-
+- **J. Si** and S. Kim, "TFR : Texture Defect Detection with 2D Fourier Transform using Normal Reconstructed Template of Simple Autoencoder", http://arxiv.org/abs/2307.04574 (TBD, SCIE)
   
 </br>
 :book: Publication
 
-- **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
-
-- J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
-  
-- D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
- 
-- S. Yang, **J. Si**, and S. Kim, "Development of a Unity-Based Interview Room Prototype for Virtual Interviews in a Metaverse Environment", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
- 
-- J. Kim, G. Kim, **J. Si**, and S. Kim, "Development of Pepper Disease Detection Application based on Object Detection using Mobile Camera", Proc. Of Korea Society of Computer and Information Conferenece, Accepted
- 
 - **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention, Accepted
 
+- **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.21-22, Jul. 2023
+
+- J. Song, **J. Si**, and S. Kim, "Analysis and Comparison of Classification Performance on Handwritten Datasets using ResNet-50 Model", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.19-20, Jul. 2023
+  
+- D. Kim, **J. Si**, S. Son, M. Woo, and S. Kim, "Stable Diffusion-based Prompt Engineering for Generating Virtual Interviewers", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.23-24, Jul. 2023
+ 
+- S. Yang, **J. Si**, and S. Kim, "Development of a Unity-Based Interview Room Prototype for Virtual Interviews in a Metaverse Environment", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.225-226, Jul. 2023
+ 
+- J. Kim, G. Kim, **J. Si**, and S. Kim, "Development of Pepper Disease Detection Application based on Object Detection using Mobile Camera", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.185-186, Jul. 2023
+ 
 - **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 127-128, Jun. 2023.
 
 - **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 129-129, Jun. 2023.
