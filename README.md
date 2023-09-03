@@ -86,7 +86,13 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
-- **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System for Disease Detection in vinyl greenhouse: Efficient Monitoring with Database", TBD
+- **J. Si**, S. Yang, D. Kim, and S. Kim, "Metaverse Interview Room Creation with Virtual Interviewer Generation Using Diffusion Model", International Conference , TBD
+- **J. Si**, J. Song, M. Woo, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference , TBD
+- **J. Si**,  S. Kim, "Improving Performance of Texture Anomaly Segmentation using Skip-Connection and Statistical Information in DFR", Domestic Conference , TBD
+- D. Kim, **J. Si**, and S. Kim, "Calculation of Product Location Based on Object Detection and Product name recognition through Image Similarity Measurement", Domestic Conference , TBD
+- D. Kim, **J. Si**, and S. Kim, "Performance Comparison of Stable-Diffusion and Text2Human For the Generation of Virtual Interviewers", Domestic Conference , TBD
+- M. Woo, **J. Si**, and S. Kim, "Performance Comparison of Virtual Interviewer Generation Using 2D to 3D Methods with PIFu Series Models", Domestic Conference , TBD
+- **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), Domestic Journal, UnderReview
 
 
 📫 Preprint Paper
@@ -99,7 +105,9 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention, Accepted
+- **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System : Efficient Disease Monitoring with Database", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 16, No. 4, pp.210-216, Aug. 2023
+  
+- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention, Aug. 2023
 
 - **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.21-22, Jul. 2023
 
