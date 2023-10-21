@@ -90,28 +90,47 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
-- **J. Si**, S. Yang, D. Kim, and S. Kim, "Metaverse Interview Room Creation with Virtual Interviewer Generation Using Diffusion Model", International Conference , TBD
-- **J. Si**, J. Song, M. Woo, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference , TBD
-- **J. Si**,  S. Kim, "Improving Performance of Texture Anomaly Segmentation using Skip-Connection and Statistical Information in DFR", Domestic Conference , TBD
-- D. Kim, **J. Si**, and S. Kim, "Calculation of Product Location Based on Object Detection and Product name recognition through Image Similarity Measurement", Domestic Conference , TBD
-- D. Kim, **J. Si**, and S. Kim, "Performance Comparison of Stable-Diffusion and Text2Human For the Generation of Virtual Interviewers", Domestic Conference , TBD
-- M. Woo, **J. Si**, and S. Kim, "Performance Comparison of Virtual Interviewer Generation Using 2D to 3D Methods with PIFu Series Models", Domestic Conference , TBD
-- **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), Domestic Journal, UnderReview
 
 
 📫 Preprint Paper
 
-- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator", https://arxiv.org/abs/2306.12757 (TBD, SCIE)
+- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator", https://arxiv.org/abs/2306.12757 (UnderReview, SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder", https://arxiv.org/abs/2306.12057 (TBD, SCIE)
-- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", https://arxiv.org/abs/2306.13418 (TBD, SCIE)
-- **J. Si** and S. Kim, "TFR : Texture Defect Detection with 2D Fourier Transform using Normal Reconstructed Template of Simple Autoencoder", http://arxiv.org/abs/2307.04574 (TBD, SCIE)
+- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", https://arxiv.org/abs/2306.13418 (UnderReview, SCIE)
+- **J. Si** and S. Kim, "TFR : Texture Defect Detection with 2D Fourier Transform using Normal Reconstructed Template of Simple Autoencoder", http://arxiv.org/abs/2307.04574 (UnderReview, SCIE)
   
 </br>
 :book: Publication
 
+- **J. Si**, S. Yang, D. Kim, and S. Kim, "Metaverse Interview Room Creation with Virtual Interviewer Generation Using Diffusion Model", IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE), Accepted
+
+- **J. Si**, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Inoovation, Communication and Engineering(IEEE ICICE), Accepted
+  
+- **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+
+- D. Kim, **J. Si**, S. Lee, and S. Kim, "Calculation of Product Location Based on Object Detection and Product name recognition through Image Similarity Measurement", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+  
+- D. Kim, **J. Si**, and S. Kim, "Performance Comparison of Stable-Diffusion and Text2Human For the Generation of Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+ 
+- M. Woo, **J. Si**, and S. Kim, "Performance Comparison of Virtual Interviewer Generation Using 2D to 3D Methods with PIFu Series Models", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+  
+- J. Song, **J. Si**, and S. Kim, "Exploring the Feasibility of Utilizing the GET3D Model for Generating 3D Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+  
+- **J. Si**, and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+  
+- M. Woo, **J. Si**, J. Jo, and S. Kim, "Development of a Chatbot Prototype for Customer Intent Classification in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+  
+- **J. Si**, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Domestic Conference, Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+  
+- S. Yang, **J. Si**, S. Son, and S. Kim, "Implementing Lipsync Technology for Virtual Interviewers Using Digital Humans in the Metaverse Environment", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+  
+- S. Son, **J. Si**, S. Kim, "Development of Metaverse Rehabilitation Content for Body Balance and Gait Analysis", Domestic Conference, Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, UnderReview
+
+- **J. Si**,  S. Kim, "Improving Performance of Texture Anomaly Segmentation using Skip-Connection and Statistical Information in DFR", Domestic Conference", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, Vol. 16, No. 2, Accepted
+   
 - **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System : Efficient Disease Monitoring with Database", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 16, No. 4, pp.210-216, Aug. 2023
   
-- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention, Aug. 2023
+- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention (IEEE ICKII), Aug. 2023
 
 - **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.21-22, Jul. 2023
 
