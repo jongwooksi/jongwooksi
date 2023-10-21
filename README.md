@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Metaverse
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
 - M.E, Computer Engineering, kit (2022. 2), Major GPA: 4.5/4.5
-- Ph.D Student, Computer· AI Convergence Engineering, kit (2022. 3~ )
+- Ph.D Student, Computer· AI Convergence Engineering, kit (2022. 3~ ), Major GPA: 4.5/4.5
  </br>
  
 🌱 Ongoing Mission
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 
 - **J. Si**, S. Yang, D. Kim, and S. Kim, "Metaverse Interview Room Creation with Virtual Interviewer Generation Using Diffusion Model", IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE), Accepted
 
-- **J. Si**, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Inoovation, Communication and Engineering(IEEE ICICE), Accepted
+- **J. Si**, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Innovation, Communication and Engineering(IEEE ICICE), Accepted
   
 - **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
