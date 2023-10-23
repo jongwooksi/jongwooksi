@@ -90,6 +90,7 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
+- **J. Si** and S. Kim, "Enhanced DFR: Advanced Texture Defect Detection and Segmentation for Industrial Product Quality Control", Domestic Journal , TBD
 
 
 📫 Preprint Paper
