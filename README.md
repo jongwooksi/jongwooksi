@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- [Lecture] 2023-2 Object-oriented Programming Programming (AI0003-01)
+- [Lecture] 2023-2 Object-oriented Programming (AI0003-01)
 - [Lecture] 2023-2 Computational Thinking (LA0338-02)
 - [Teaching Assistant] 2023-2 Multimedia Engineering (CD0016-01)
 - [Teaching Assistant] 2023-2 Deep Learning (CD0082-02)
