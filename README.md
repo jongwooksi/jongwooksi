@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
 
-- **J. Si** and S. Kim, "Enhanced DFR Texture Defect Detection and Segmentation through Preservation of Multi-scale Features", Journal of Korea Institute of Information, Electronics, and Communication Technology, UnderReview
+- **J. Si** and S. Kim, "Enhanced DFR: Texture Defect Detection and Segmentation through Preservation of Multi-scale Features", Journal of Korea Institute of Information, Electronics, and Communication Technology, UnderReview
 
 - **J. Si**, S. Yang, D. Kim, and S. Kim, "Metaverse Interview Room Creation with Virtual Interviewer Generation Using Diffusion Model", IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE), Accepted
 
