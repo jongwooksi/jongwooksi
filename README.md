@@ -87,6 +87,12 @@ Here are some ideas to get you started:
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
  
 </br>
+
+✨ Patent
+- (등록) "전자 회로도 영상의 자동인식 및 네트리스트 변환 방법" : 김성영, 시종욱, 김문년 
+- (출원) "제조 공정의 이상감지장치 및 그 방법" : 김성영, 시종욱, 정지수, 정민수 
+- (출원) "태양전지 불량 검출장치 및 그 방법" : 김성영, 시종욱
+
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
