@@ -101,13 +101,14 @@ Here are some ideas to get you started:
 
 📫 Preprint Paper
 
-- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block based on Early Stopping Discriminator", https://arxiv.org/abs/2306.12757 (UnderReview, SCIE)
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder", https://arxiv.org/abs/2306.12057 (TBD, SCIE)
 - **J. Si** and S. Kim, "TFR : Texture Defect Detection with 2D Fourier Transform using Normal Reconstructed Template of Simple Autoencoder", http://arxiv.org/abs/2307.04574 (UnderReview, SCIE)
   
 </br>
 :book: Publication
 
+- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block-GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
+ 
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
 
 - **J. Si** and S. Kim, "Enhanced Deep Feature Reconstruction: Texture Defect Detection and Segmentation through Preservation of Multi-scale Features", Journal of Korea Institute of Information, Electronics, and Communication Technology, Accepted
