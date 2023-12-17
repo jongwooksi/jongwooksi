@@ -43,14 +43,16 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- [Lecture] 2023-2 Object-oriented Programming (AI0003-01)
-- [Lecture] 2023-2 Computational Thinking (LA0338-02)
-- [Teaching Assistant] 2023-2 Multimedia Engineering (CD0016-01)
-- [Teaching Assistant] 2023-2 Deep Learning (CD0082-02)
-- [Teaching Assistant] 2023-2 Metaverse Basic Programming (CF0029-01, CF0029-02)
+- [Lecture] 2024-1 Web/Cloud Basic
+- [Teaching Assistant] 2024-1 Image Processing
+- [Teaching Assistant] 2024-1 Java Programming
+- [Teaching Assistant] 2024-1 Creative Design Project 1
 </br>
 
 ✨: Teaching Assistant (TA)
+- 2023-2 Multimedia Engineering (CD0016-01)
+- 2023-2 Deep Learning (CD0082-02)
+- 2023-2 Metaverse Basic Programming (CF0029-01, CF0029-02)
 - 2023-1 Metaverse design & development (CF0026-01)
 - 2023-1 Creative Design Project 1 (CD0033-02)
 - 2022-2 Multimedia Engineering (CD0016-01, CD0016-02)
@@ -64,7 +66,9 @@ Here are some ideas to get you started:
 
 </br>
 
-🤔: Lecture 
+🤔: Lecture
+- 2023-2 Object-oriented Programming (AI0003-01)
+- 2023-2 Computational Thinking (LA0338-02)
 - 2023-1 Business Programming (BD0005-01)
 - 2023-1 Basic Software for Majors (BA0017-23)
   
@@ -92,6 +96,7 @@ Here are some ideas to get you started:
 - (등록) "전자 회로도 영상의 자동인식 및 네트리스트 변환 방법" : 김성영, 시종욱, 김문년 
 - (출원) "제조 공정의 이상감지장치 및 그 방법" : 김성영, 시종욱, 정지수, 정민수 
 - (출원) "태양전지 불량 검출장치 및 그 방법" : 김성영, 시종욱
+- (출원) "생성 인공지능과 음성 합성을 사용한 가상 면접 시스템" : 김성영, 정유철, 시종욱, 윤채원, 양성은, 박재성
 </br>
 
 📫 Scheduled Papers (TBD)
@@ -107,6 +112,10 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
+- **J. Si** and S. Kim, "Data Augmentation of Shelf Product for Object Recognition in O2O Stores Based on Generative AI", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, UnderReview
+
+- D. Kim, **J. Si** and S. Kim, "202401 Feature Point Matching for Product Name Recognition in O2O Stores", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, UnderReview
+
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block-GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
  
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
@@ -117,7 +126,7 @@ Here are some ideas to get you started:
 
 - **J. Si**, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Innovation, Communication and Engineering(IEEE ICICE), Accepted
   
-- **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+- **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), pp.138-192, Nov. 2023.
 
 - **J. Si**, and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 145-145, Nov. 2023.
 
@@ -141,7 +150,7 @@ Here are some ideas to get you started:
    
 - **J. Si**, J. Kim, and S. Kim, "Object Detection-Based Cloud System : Efficient Disease Monitoring with Database", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 16, No. 4, pp.210-216, Aug. 2023
   
-- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention (IEEE ICKII), Aug. 2023
+- **J. Si** and S. Kim, "Defect Detection of Wood Grain Images with Image Gradient Applied to AE-based Generation", IEEE International Conference on Knowledge Innovation and Invention (IEEE ICKII), pp.335-337, Aug. 2023
 
 - **J. Si**, and S. Kim, "Improving Texture Defect Detection Performance in DRAEM Using Combinations of Masking with High-Pass Emphasis Filtering", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 30, No. 2, pp.21-22, Jul. 2023
 
