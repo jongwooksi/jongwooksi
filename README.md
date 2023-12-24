@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 :clipboard: About Me
 - Lab : Intelligent Image Analysis Lab (Director), Department of Computer· AI Convergence Engineering (Digital building 235) Kumoh National Institute of Technology (kit), KOREA
 - E-mail : jwsi425@kumoh.ac.kr
-- Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Metaverse
+- Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Metaverse, Generative AI(based on Image)
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
 - M.E, Computer Engineering, kit (2022. 2), Major GPA: 4.5/4.5
 - Ph.D Candidate, Computer· AI Convergence Engineering, kit (2022. 3~ ), Major GPA: 4.5/4.5
