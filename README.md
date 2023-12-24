@@ -260,27 +260,27 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
 
 - D. Kim, **J. Si**, S. Lee, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - S. Son, **J. Si**, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - D. Kim, **J. Si**, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - J. Song, **J. Si**, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - S. Yang, **J. Si**, S. Son, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - M. Woo, **J. Si**, J. Jo, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - M. Woo, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - **J. Si** and S. Kim, "Excellent Paper Award",  IEEE ICKII, 2023.08.13
-- 
+  
 - **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korea Society of Computer and Information Conference, 2023.07.14, Korea Society of Computer and Information
 
 - **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - S. Son, **J. Si**, J. Song, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-- 
+  
 - J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
 
 - **J. Si** and S. Kim, "Excellent Paper Award - Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
