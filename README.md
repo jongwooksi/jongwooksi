@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 - Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Metaverse
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
 - M.E, Computer Engineering, kit (2022. 2), Major GPA: 4.5/4.5
-- Ph.D Student, Computer· AI Convergence Engineering, kit (2022. 3~ ), Major GPA: 4.5/4.5
+- Ph.D Candidate, Computer· AI Convergence Engineering, kit (2022. 3~ ), Major GPA: 4.5/4.5
  </br>
  
 🌱 Ongoing Mission
