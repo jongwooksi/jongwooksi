@@ -121,11 +121,11 @@ Here are some ideas to get you started:
  
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Vol. 77, No. 3, pp. 3119-3138, Dec. 2023. (SCIE, IF: 3.86)
 
-- **J. Si** and S. Kim, "Enhanced Deep Feature Reconstruction: Texture Defect Detection and Segmentation through Preservation of Multi-scale Features", Journal of Korea Institute of Information, Electronics, and Communication Technology, Accepted
+- **J. Si** and S. Kim, "Enhanced Deep Feature Reconstruction: Texture Defect Detection and Segmentation through Preservation of Multi-scale Features", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 16, No. 6, pp.369-378, Dec. 2023.
 
-- **J. Si**, S. Yang, D. Kim, and S. Kim, "Metaverse Interview Room Creation with Virtual Interviewer Generation Using Diffusion Model", IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE), Accepted
+- **J. Si**, S. Yang, D. Kim, and S. Kim, "Metaverse Interview Room Creation with Virtual Interviewer Generation Using Diffusion Model", IEEE Asia-Pacific Conference on Computer Science and Data Engineering (IEEE CSDE), Dec. 2023.
 
-- **J. Si**, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Innovation, Communication and Engineering(IEEE ICICE), Accepted
+- **J. Si**, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Innovation, Communication and Engineering(IEEE ICICE), Nov. 2023.
   
 - **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), pp.138-192, Nov. 2023.
 
