@@ -119,7 +119,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block-GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
  
-- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
+- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Vol. 77, No. 3, pp. 3119-3138, Dec. 2023. (SCIE, IF: 3.86)
 
 - **J. Si** and S. Kim, "Enhanced Deep Feature Reconstruction: Texture Defect Detection and Segmentation through Preservation of Multi-scale Features", Journal of Korea Institute of Information, Electronics, and Communication Technology, Accepted
 
