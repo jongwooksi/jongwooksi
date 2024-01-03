@@ -131,11 +131,11 @@ Here are some ideas to get you started:
 
 - **J. Si**, and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 145-145, Nov. 2023.
 
-- **J. Si**, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Domestic Conference, Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 146-146, Nov. 2023.
+- **J. Si**, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 146-146, Nov. 2023.
 
 - J. Song, **J. Si**, and S. Kim, "Exploring the Feasibility of Utilizing the GET3D Model for Generating 3D Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 418-419, Nov. 2023.
 
-- S. Son, **J. Si**, S. Kim, "Development of Metaverse Rehabilitation Content for Body Balance and Gait Analysis", Domestic Conference, Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 420-421, Nov. 2023.
+- S. Son, **J. Si**, S. Kim, "Development of Metaverse Rehabilitation Content for Body Balance and Gait Analysis", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 420-421, Nov. 2023.
   
 - S. Yang, **J. Si**, S. Son, and S. Kim, "Implementing Lipsync Technology for Virtual Interviewers Using Digital Humans in the Metaverse Environment", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 422-423, Nov. 2023.
 
@@ -229,9 +229,9 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Traffic Accident Detection in First-Person Videos Based on Depth and Background Motion Estimation", Journal of Korean Institute of Information Technology(JKIIT), Vol.19, No.3, pp.25-34, Mar. 2021.
 
-- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim, and S. Kim, "Fall Detection Using Skeletal Coordinate Vector and LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), Vol.18, No.12, pp.19-28, De. 2020.
+- **J. Si**, H. Son, D. Kim, M. Kim, J. Jeong, G. Kim, Y. Kim, and S. Kim, "Fall Detection Using Skeletal Coordinate Vector and LSTM Model", Journal of Korean Institute of Information Technology(JKIIT), Vol.18, No.12, pp.19-28, Dec. 2020.
 
-- **J. Si**, J. Jeong, G. Kim, and S. Kim, "Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", Proc. Of Korean Institute of Information Technology Conference, Vol.15, No.1, pp.147-149, Oc. 2020.
+- **J. Si**, J. Jeong, G. Kim, and S. Kim, "Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", Proc. Of Korean Institute of Information Technology Conference, Vol.15, No.1, pp.147-149, Oct. 2020.
 
 - D. Kim, H. Son, **J. Si**, and S. Kim, "Traffic Accident Detection Based on Ego Motion and Object Tracking", Journal of Advanced Information Technology and Convergence(JAITC), Vol.10, No.1, pp.15-23, Jul. 2020.
 
