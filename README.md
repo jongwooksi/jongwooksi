@@ -135,7 +135,7 @@ Here are some ideas to get you started:
 
 - J. Song, **J. Si**, and S. Kim, "Exploring the Feasibility of Utilizing the GET3D Model for Generating 3D Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 418-419, Nov. 2023.
 
-- S. Son, **J. Si**, S. Kim, "Development of Metaverse Rehabilitation Content for Body Balance and Gait Analysis", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 420-421, Nov. 2023.
+- S. Son, **J. Si**, and S. Kim, "Development of Metaverse Rehabilitation Content for Body Balance and Gait Analysis", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 420-421, Nov. 2023.
   
 - S. Yang, **J. Si**, S. Son, and S. Kim, "Implementing Lipsync Technology for Virtual Interviewers Using Digital Humans in the Metaverse Environment", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 422-423, Nov. 2023.
 
@@ -165,7 +165,7 @@ Here are some ideas to get you started:
  
 - **J. Si** and S. Kim, "Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 127-128, Jun. 2023.
 
-- **J. Si** and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 129-129, Jun. 2023.
+- **J. Si**, G. Kim, J. Kim, and S. Kim, "Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 129-129, Jun. 2023.
 
 - J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Crop Disease Detection System Based on Object Detection Using a Cloud Environment and Database",  Proc. Of Korean Institute of Information Technology Conference, Vol. 18, No. 1, pp. 670-671, Jun. 2023.
 
