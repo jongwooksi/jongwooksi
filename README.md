@@ -43,7 +43,8 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- [Lecture] 2024-1 Web/Cloud Basic
+- [Lecture] 2024-1 Web/Cloud Basics
+- [Lecture] 2024-1 AI Programming Basics
 - [Teaching Assistant] 2024-1 Image Processing
 - [Teaching Assistant] 2024-1 Java Programming
 - [Teaching Assistant] 2024-1 Creative Design Project 1
@@ -113,13 +114,13 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "Data Augmentation of Shelf Product for Object Recognition in O2O Stores Based on Generative AI", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, UnderReview
+- **J. Si** and S. Kim, "Data Augmentation of Shelf Product for Object Recognition in O2O Stores Based on Generative AI", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, pp. 77-78, Jan. 2024.
 
-- D. Kim, **J. Si** and S. Kim, "Feature Point Matching for Product Name Recognition in O2O Stores", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, UnderReview
+- D. Kim, **J. Si** and S. Kim, "Feature Point Matching for Product Name Recognition in O2O Stores", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, pp. 79-80, Jan. 2024.
 
-- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block-GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.86)
+- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block-GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.1)
  
-- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Vol. 77, No. 3, pp. 3119-3138, Dec. 2023. (SCIE, IF: 3.86)
+- **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Vol. 77, No. 3, pp. 3119-3138, Dec. 2023. (SCIE, IF: 3.1)
 
 - **J. Si** and S. Kim, "Enhanced Deep Feature Reconstruction: Texture Defect Detection and Segmentation through Preservation of Multi-scale Features", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 16, No. 6, pp.369-378, Dec. 2023.
 
