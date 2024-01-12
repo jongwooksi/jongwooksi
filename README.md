@@ -130,23 +130,23 @@ Here are some ideas to get you started:
   
 - **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), pp.138-192, Nov. 2023.
 
-- **J. Si**, and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 145-145, Nov. 2023.
+- **J. Si**, and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 141-141, Nov. 2023.
 
-- **J. Si**, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 146-146, Nov. 2023.
+- **J. Si**, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 142-142, Nov. 2023.
 
-- J. Song, **J. Si**, and S. Kim, "Exploring the Feasibility of Utilizing the GET3D Model for Generating 3D Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 418-419, Nov. 2023.
+- J. Song, **J. Si**, and S. Kim, "Exploring the Feasibility of Utilizing the GET3D Model for Generating 3D Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 416-417, Nov. 2023.
 
-- S. Son, **J. Si**, and S. Kim, "Development of Metaverse Rehabilitation Content for Body Balance and Gait Analysis", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 420-421, Nov. 2023.
+- S. Son, **J. Si**, and S. Kim, "Development of Metaverse Rehabilitation Content for Body Balance and Gait Analysis", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 414-415, Nov. 2023.
   
-- S. Yang, **J. Si**, S. Son, and S. Kim, "Implementing Lipsync Technology for Virtual Interviewers Using Digital Humans in the Metaverse Environment", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 422-423, Nov. 2023.
+- S. Yang, **J. Si**, S. Son, and S. Kim, "Implementing Lipsync Technology for Virtual Interviewers Using Digital Humans in the Metaverse Environment", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 418-419, Nov. 2023.
 
-- M. Woo, **J. Si**, and S. Kim, "Performance Comparison of Virtual Interviewer Generation Using 2D to 3D Methods with PIFu Series Models", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 444-445, Nov. 2023.
+- M. Woo, **J. Si**, and S. Kim, "Performance Comparison of Virtual Interviewer Generation Using 2D to 3D Methods with PIFu Series Models", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 440-441, Nov. 2023.
  
-- M. Woo, **J. Si**, J. Jo, and S. Kim, "Development of a Chatbot Prototype for Customer Intent Classification in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 446-447, Nov. 2023.
+- M. Woo, **J. Si**, J. Jo, and S. Kim, "Development of a Chatbot Prototype for Customer Intent Classification in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 442-443, Nov. 2023.
 
-- D. Kim, **J. Si**, and S. Kim, "Performance Comparison of Stable-Diffusion and Text2Human For the Generation of Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 498-499, Nov. 2023.
+- D. Kim, **J. Si**, and S. Kim, "Performance Comparison of Stable-Diffusion and Text2Human For the Generation of Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 492-493, Nov. 2023.
  
-- D. Kim, **J. Si**, S. Lee, and S. Kim, "Calculation of Product Location Based on Object Detection and Product name recognition through Image Similarity Measurement", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 500-501, Nov. 2023.
+- D. Kim, **J. Si**, S. Lee, and S. Kim, "Calculation of Product Location Based on Object Detection and Product name recognition through Image Similarity Measurement", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 494-495, Nov. 2023.
   
 - **J. Si**,  S. Kim, "Improving Performance of Texture Anomaly Segmentation using Skip-Connection and Statistical Information in DFR", Domestic Conference", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, Vol. 16, No. 2, pp. 19-20, Oct. 2023.
    
