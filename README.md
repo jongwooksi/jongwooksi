@@ -118,7 +118,7 @@ Here are some ideas to get you started:
 
 - D. Kim, **J. Si** and S. Kim, "Feature Point Matching for Product Name Recognition in O2O Stores", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, pp. 79-80, Jan. 2024.
 
-- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block-GAN", CMC-Computers, Materials & Continua, Accepted (SCIE, IF: 3.1)
+- **J. Si** and S. Kim, "Restoration of the JPEG Maximum Lossy Compressed Face Images with Hourglass Block-GAN", CMC-Computers, Materials & Continua, Vol. 78, No. 3, pp. 2893-2908, Mar. 2024.  (SCIE, IF: 3.1)
  
 - **J. Si** and S. Kim, "PP-GAN : Style Transfer from Korean Portraits to ID Photos Using Landmark Extractor with GAN", CMC-Computers, Materials & Continua, Vol. 77, No. 3, pp. 3119-3138, Dec. 2023. (SCIE, IF: 3.1)
 
