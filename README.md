@@ -45,11 +45,17 @@ Here are some ideas to get you started:
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
 - [Lecture] 2024-1 Web/Cloud Basics
 - [Lecture] 2024-1 AI Programming Basics
-- [Teaching Assistant] 2024-1 Image Processing
+- [Teaching Assistant] 2024-1 Metaverse design & development (CF0026-01)
 - [Teaching Assistant] 2024-1 Java Programming
 - [Teaching Assistant] 2024-1 Creative Design Project 1
 </br>
 
+🤔: Lecture
+- 2023-2 Object-oriented Programming (AI0003-01)
+- 2023-2 Computational Thinking (LA0338-02)
+- 2023-1 Business Programming (BD0005-01)
+- 2023-1 Basic Software for Majors (BA0017-23)
+  
 ✨: Teaching Assistant (TA)
 - 2023-2 Multimedia Engineering (CD0016-01)
 - 2023-2 Deep Learning (CD0082-02)
@@ -67,12 +73,6 @@ Here are some ideas to get you started:
 
 </br>
 
-🤔: Lecture
-- 2023-2 Object-oriented Programming (AI0003-01)
-- 2023-2 Computational Thinking (LA0338-02)
-- 2023-1 Business Programming (BD0005-01)
-- 2023-1 Basic Software for Majors (BA0017-23)
-  
 </br>
 :running: Assistant
 
@@ -104,6 +104,14 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
+- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", SCIE, UnderReview
+- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
+- **J. Si**, S. Yang, J. Song, S. Song, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), UnderReview
+- **J. Si**, D. Kim and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", TBD
+- **J. Si**, S. Kim and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
+- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", TBD
+- **J. Si** and S. Kim, "Knowledge-based Utilization Defect Detection Model Fusion Of Transformer and Selective Diffusion with Histogram Matching", SCIE, TBD
+
 </br>
 
 📫 Preprint Paper
@@ -114,6 +122,8 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
+- C. Yoon, S. Yang, J. Park, **J. Si**, Y. Jung, and S. Kim, "Metaverse Virtual Interview Platform Leveraging Generative AI and Speech Recognition, Journal of Korean Institute of Information Technology(JKIIT), Accepted
+  
 - **J. Si** and S. Kim, "Data Augmentation of Shelf Product for Object Recognition in O2O Stores Based on Generative AI", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, pp. 77-78, Jan. 2024.
 
 - D. Kim, **J. Si** and S. Kim, "Feature Point Matching for Product Name Recognition in O2O Stores", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, pp. 79-80, Jan. 2024.
