@@ -107,8 +107,8 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", SCIE, UnderReview
 - **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
 - **J. Si**, S. Yang, J. Song, S. Song, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), UnderReview
-- **J. Si**, D. Kim and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", TBD
-- **J. Si**, S. Kim and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
+- **J. Si**, D. Kim, and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", TBD
+- **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", TBD
 - **J. Si** and S. Kim, "Knowledge-based Utilization Defect Detection Model Fusion Of Transformer and Selective Diffusion with Histogram Matching", SCIE, TBD
 
