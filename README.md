@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
   
-- **J. Si**, S. Yang, J. Song, S. Song, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024)), UnderReview
+- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024)), UnderReview
 
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
   
