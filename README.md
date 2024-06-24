@@ -135,8 +135,8 @@ Here are some ideas to get you started:
 
 - D. Kim, **J. Si**, and S. Kim, "2D Lip-Synced Interviewer Generation for Virtual Interview Scenarios : Utilizing Stable Diffusion and Wav2Lip", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
 
-- H. Choi, J. Ahn, **J. Si**, and S. Kim, "Performance Comparisons According to Transfer Learning and Optimization Algorithms in ResNet Series Models Focused on Fashion MNIST", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
-  - 
+- H. Choi, J. Ahn, **J. Si**, and S. Kim, "Performance Comparisons According to Transfer Learning and Optimization Algorithms in ResNet Series Models : Focused on Fashion MNIST", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
+  
 - **J. Si**, D. Kim, and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 17, No. 3, pp.121-129, Jun. 2024.
 
 - C. Yoon, S. Yang, J. Park, **J. Si**, Y. Jung, and S. Kim, "Metaverse Virtual Interview Platform Leveraging Generative AI and Speech Recognition, Journal of Korean Institute of Information Technology(JKIIT),  Vol. 22, No. 6, Jun. 2024.
