@@ -171,7 +171,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 141-141, Nov. 2023.
 
-- **J. Si*, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 142-142, Nov. 2023.
+- **J. Si**, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 142-142, Nov. 2023.
 
 - J. Song, **J. Si**, and S. Kim, "Exploring the Feasibility of Utilizing the GET3D Model for Generating 3D Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 416-417, Nov. 2023.
 
