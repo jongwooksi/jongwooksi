@@ -43,20 +43,25 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- [Lecture] 2024-1 Web/Cloud Basics
-- [Lecture] 2024-1 AI Programming Basics
-- [Teaching Assistant] 2024-1 Metaverse design & development (CF0026-01)
-- [Teaching Assistant] 2024-1 Java Programming
-- [Teaching Assistant] 2024-1 Creative Design Project 1
+- [Lecture] 2024-2 AI Programming Exercise
+- [Lecture] 2024-2 Practical Problem Solving and Algorithms
+- [Teaching Assistant] 2024-2 Metaverse Basic Programming (CF0026-01)
+- [Teaching Assistant] 2024-2 Multimedia Engineering
+- [Teaching Assistant] 2024-2 Deep Learning
 </br>
 
 🤔: Lecture
+- 2024-1 Web/Cloud Basics (AI0007-01)
+- 2024-1 AI Programming Basicsg (AI0001-01)
 - 2023-2 Object-oriented Programming (AI0003-01)
 - 2023-2 Computational Thinking (LA0338-02)
 - 2023-1 Business Programming (BD0005-01)
 - 2023-1 Basic Software for Majors (BA0017-23)
   
 ✨: Teaching Assistant (TA)
+- 2024-1 Metaverse design & development (CF0026-01)
+- 2024-1 Java Programming (CD0017-01)
+- 2024-1 Creative Design Project 1 (CD0033-05)
 - 2023-2 Multimedia Engineering (CD0016-01)
 - 2023-2 Deep Learning (CD0082-02)
 - 2023-2 Metaverse Basic Programming (CF0029-01, CF0029-02)
@@ -104,12 +109,15 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
-- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", SCIE, UnderReview
+
 - **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
-- **J. Si**, S. Yang, J. Song, S. Song, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Metaverse Computing, Networking, and Applications (IEEE MetaCom), UnderReview
-- **J. Si**, D. Kim, and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", TBD
+- 
+- **J. Si**, S. Yang, J. Song, S. Song, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024)), UnderReview
+
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
+- 
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", TBD
+- 
 - **J. Si** and S. Kim, "Knowledge-based Utilization Defect Detection Model Fusion Of Transformer and Selective Diffusion with Histogram Matching", SCIE, TBD
 
 </br>
@@ -117,13 +125,34 @@ Here are some ideas to get you started:
 📫 Preprint Paper
 
 - **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder", https://arxiv.org/abs/2306.12057 (TBD, SCIE)
-- **J. Si** and S. Kim, "TFR : Texture Defect Detection with 2D Fourier Transform using Normal Reconstructed Template of Simple Autoencoder", http://arxiv.org/abs/2307.04574 (UnderReview, SCIE)
   
 </br>
 :book: Publication
 
-- C. Yoon, S. Yang, J. Park, **J. Si**, Y. Jung, and S. Kim, "Metaverse Virtual Interview Platform Leveraging Generative AI and Speech Recognition, Journal of Korean Institute of Information Technology(JKIIT), Accepted
-  
+- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing, Accepted, Accepted. (SCIE, IF: 2.3)
+
+- **J. Si** and S. Kim, "Surface Defect Detection and Segmentation Using Diffusion Model Based on Feature Map of ResNet", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
+
+- D. Kim, **J. Si**, and S. Kim, "2D Lip-Synced Interviewer Generation for Virtual Interview Scenarios : Utilizing Stable Diffusion and Wav2Lip", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
+
+- H. Choi, J. Ahn, **J. Si**, and S. Kim, "Performance Comparisons According to Transfer Learning and Optimization Algorithms in ResNet Series Models Focused on Fashion MNIST", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
+  - 
+- **J. Si**, D. Kim, and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 17, No. 3, pp.121-129, Jun. 2024.
+
+- C. Yoon, S. Yang, J. Park, **J. Si**, Y. Jung, and S. Kim, "Metaverse Virtual Interview Platform Leveraging Generative AI and Speech Recognition, Journal of Korean Institute of Information Technology(JKIIT),  Vol. 22, No. 6, Jun. 2024.
+
+- J. Jo, **J. Si** and S. Kim, "Building of 3D Virtual Space in Unreal Engine with Luma AI", Proc. Of Korean Institute of Information Technology Conference, pp. 410-411, May. 2024.
+
+- S. Lee, **J. Si** and S. Kim, "Fine-tuning EasyOCR for Unstructured Korean Menu Recognition in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, pp. 476-477, May. 2024.
+
+- D. Kim, **J. Si** and S. Kim, "Generation of High-Resolution Virtual Interview Rooms Using LoRA-applied Stable Diffusion and Real-ESRGAN", Proc. Of Korean Institute of Information Technology Conference,pp. 412-413, May. 2024.
+
+- J. Jo, **J. Si** and S. Kim, "Real-Time Facial Expression Changes for Interviewers in Virtual Interviews Application of Audio2Face in Unreal Engine", Proc. Of Korean Institute of Information Technology Conference, pp. 404-405, May. 2024.
+
+- **J. Si** and S. Kim, "Application of Histogram Matching Loss Function for Training of Diffusion-Based Image Reconstruction Model", Proc. Of Korean Institute of Information Technology Conference,pp. 150-150, May. 2024.
+
+- M. Woo, **J. Si**,  S. Kim, "Exploring the Viability of Chatbots Based on RAG and QLoRA for O2O Stores", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, pp. 198-199, May. 2024.
+   
 - **J. Si** and S. Kim, "Data Augmentation of Shelf Product for Object Recognition in O2O Stores Based on Generative AI", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, pp. 77-78, Jan. 2024.
 
 - D. Kim, **J. Si** and S. Kim, "Feature Point Matching for Product Name Recognition in O2O Stores", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 1, pp. 79-80, Jan. 2024.
@@ -138,11 +167,11 @@ Here are some ideas to get you started:
 
 - **J. Si**, J. Song, M. Woo, D. Kim, Y. Lee, and S. Kim, "Generative AI Models for Virtual Interviewing : Applicability and Performance Comparison", International Conference on Innovation, Communication and Engineering(IEEE ICICE), Nov. 2023.
   
-- **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), pp.138-192, Nov. 2023.
+- **J. Si**, G. Kim, J. Kim, and S. Kim, "Enhanced Location-Based Facility Management in Mobile Environments Using Object Recognition and Augmented Reality", Journal of Korean Institute of Information Technology(JKIIT), Vol 21. No. 11, pp.138-192, Nov. 2023.
 
-- **J. Si**, and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 141-141, Nov. 2023.
+- **J. Si** and S. Kim, "Fine-tuning Using Dreambooth: Focusing on Realistic Virtual Interviewer Generation based on Stable-Diffusion", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 141-141, Nov. 2023.
 
-- **J. Si**, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 142-142, Nov. 2023.
+- **J. Si*, and S. Kim, "Diffusion Model-Based Data Augmentation for Defect Detection: Inpainting Using Prompts", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 142-142, Nov. 2023.
 
 - J. Song, **J. Si**, and S. Kim, "Exploring the Feasibility of Utilizing the GET3D Model for Generating 3D Virtual Interviewers", Proc. Of Korean Institute of Information Technology Conference, Vol. 16, No. 2, pp. 416-417, Nov. 2023.
 
@@ -267,6 +296,15 @@ Here are some ideas to get you started:
 </br>
 
 :trophy: Awards
+- **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
+
+- D. Kim, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
+
+- J. Jo, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
+
+- S. Lee, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
+
+- **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
 
 - **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
 
