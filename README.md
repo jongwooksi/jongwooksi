@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 🤔: Lecture
 - 2024-1 Web/Cloud Basics (AI0007-01)
-- 2024-1 AI Programming Basicsg (AI0001-01)
+- 2024-1 AI Programming Basics (AI0001-01)
 - 2023-2 Object-oriented Programming (AI0003-01)
 - 2023-2 Computational Thinking (LA0338-02)
 - 2023-1 Business Programming (BD0005-01)
