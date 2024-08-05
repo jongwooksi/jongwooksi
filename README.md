@@ -108,14 +108,15 @@ Here are some ideas to get you started:
 
 📫 Scheduled Papers (TBD)
 
-- **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference , TBD
 
 - **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
   
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
   
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", SCIE, UnderReview
-  
+
+- **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", nternational Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT, UnderReview
+
 - **J. Si** and S. Kim, "Knowledge-based Utilization Defect Detection Model Fusion Of Transformer and Selective Diffusion with Histogram Matching", SCIE, TBD
 
 </br>
@@ -127,9 +128,11 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024)), Accpeted
+- J. Park, S. Yang, C. Yoon, **J. Si**, Y. Jung, and S. Kim, "AI English Conversation Coaching Platform in the Metaverse Focused on Korean Users", IEEE International Conference Application of Information and Communication Technologies (IEEE AICT), Accepted
+								</br>
+- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform", IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024), Accpeted
    
-- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing, Accepted, Accepted. (SCIE, IF: 2.3)
+- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing, Accepted (SCIE, IF: 2.3)
 
 - **J. Si** and S. Kim, "Surface Defect Detection and Segmentation Using Diffusion Model Based on Feature Map of ResNet", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
 
