@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
 - [Lecture] 2024-2 AI Programming Exercise
 - [Lecture] 2024-2 Practical Problem Solving and Algorithms
-- [Teaching Assistant] 2024-2 Metaverse Basic Programming (CF0026-01)
-- [Teaching Assistant] 2024-2 Multimedia Engineering
+- [Lecture] 2024-2 Multimedia Engineering
+- [Teaching Assistant] 2024-2 Metaverse Basic Programming
 - [Teaching Assistant] 2024-2 Deep Learning
 </br>
 
@@ -112,11 +112,9 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
   
-- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024)), UnderReview
-
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
   
-- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", TBD
+- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", SCIE, UnderReview
   
 - **J. Si** and S. Kim, "Knowledge-based Utilization Defect Detection Model Fusion Of Transformer and Selective Diffusion with Histogram Matching", SCIE, TBD
 
@@ -129,6 +127,8 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
+- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024)), Accpeted
+   
 - **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing, Accepted, Accepted. (SCIE, IF: 2.3)
 
 - **J. Si** and S. Kim, "Surface Defect Detection and Segmentation Using Diffusion Model Based on Feature Map of ResNet", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
@@ -283,6 +283,7 @@ Here are some ideas to get you started:
 
 :two_men_holding_hands: PROJECT
 
+- 인공지능을 적용한 재활 운동 솔루션 개발, 한국연구재단(LINC 3.0 산학공동기술개발), 2023-04-01~2025-03-31
 - 객체 인식을 통한 O2O 자동 상점 시스템 개발, 중소벤처기업부, 2023-04-01~2025-03-31
 - 메에인: 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트, 과학기술정보통신부, 2023-05-01~2025-12-31
 - 지역혁신클러스터육성 2기(경북) : 지역혁신 계약LAB, 한국산업기술진흥원, 2023-01-01~2027-12-31
