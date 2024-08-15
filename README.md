@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 - (등록) "전자 회로도 영상의 자동인식 및 네트리스트 변환 방법" : 김성영, 시종욱, 김문년 
 - (출원) "제조 공정의 이상감지장치 및 그 방법" : 김성영, 시종욱, 정지수, 정민수 
 - (출원) "태양전지 불량 검출장치 및 그 방법" : 김성영, 시종욱
-- (출원) "생성 인공지능과 음성 합성을 사용한 가상 면접 시스템" : 김성영, 정유철, 시종욱, 윤채원, 양성은, 박재성
+- (출원) "생성 인공지능과 음성 인식을 활용한 가상 면접 방법 및 이를 이용한 가상 면접 시스템" : 김성영, 정유철, 시종욱, 윤채원, 양성은, 박재성
 </br>
 
 📫 Scheduled Papers (TBD)
@@ -115,9 +115,9 @@ Here are some ideas to get you started:
   
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", SCIE, UnderReview
 
-- **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", nternational Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT, UnderReview
+- **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT, UnderReview
 
-- **J. Si** and S. Kim, "Knowledge-based Utilization Defect Detection Model Fusion Of Transformer and Selective Diffusion with Histogram Matching", SCIE, TBD
+- **J. Si** and S. Kim, "HMD^2^: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
 
 </br>
 
@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 
 - **J. Si**, S. Lee, and S. Kim, "Recognition of Korean Menu for Online to Offline Stores : VGG-ResNet Fusion Model with Attention Mechanism", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol 17, No.4, Accepted
   
-- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing, Accepted (SCIE, IF: 2.3)
+- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing,  Signal, Image and Video Processing, Vol. 18, No. 10, pp.7405-7418 (SCIE, IF: 2.0)
 
 - **J. Si** and S. Kim, "Surface Defect Detection and Segmentation Using Diffusion Model Based on Feature Map of ResNet", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
 
