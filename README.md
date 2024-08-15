@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT, UnderReview
 
-- **J. Si** and S. Kim, "HMD^2^: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
+- **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
 
 </br>
 
