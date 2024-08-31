@@ -132,15 +132,15 @@ Here are some ideas to get you started:
   
 - **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform", IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024), Accpeted
 
-- **J. Si**, S. Lee, and S. Kim, "Recognition of Korean Menu for Online to Offline Stores : VGG-ResNet Fusion Model with Attention Mechanism", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol 17, No.4, Accepted
+- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing,  Signal, Image and Video Processing, Vol. 18, No. 10, pp.7405-7418, Sep. 2024. (SCIE, IF: 2.0)
+
+- **J. Si**, S. Lee, and S. Kim, "Recognition of Korean Menu for Online to Offline Stores : VGG-ResNet Fusion Model with Attention Mechanism", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol 17, No.4, pp.190-197, Aug. 2024.
   
-- **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing,  Signal, Image and Video Processing, Vol. 18, No. 10, pp.7405-7418 (SCIE, IF: 2.0)
+- **J. Si** and S. Kim, "Surface Defect Detection and Segmentation Using Diffusion Model Based on Feature Map of ResNet", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, pp. 1-2, Jul. 2024.
 
-- **J. Si** and S. Kim, "Surface Defect Detection and Segmentation Using Diffusion Model Based on Feature Map of ResNet", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
+- D. Kim, **J. Si**, and S. Kim, "2D Lip-Synced Interviewer Generation for Virtual Interview Scenarios : Utilizing Stable Diffusion and Wav2Lip", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, pp. 3-4, Jul. 2024.
 
-- D. Kim, **J. Si**, and S. Kim, "2D Lip-Synced Interviewer Generation for Virtual Interview Scenarios : Utilizing Stable Diffusion and Wav2Lip", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
-
-- H. Choi, J. Ahn, **J. Si**, and S. Kim, "Performance Comparisons According to Transfer Learning and Optimization Algorithms in ResNet Series Models : Focused on Fashion MNIST", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, Jul. 2024.
+- H. Choi, J. Ahn, **J. Si**, and S. Kim, "Performance Comparisons According to Transfer Learning and Optimization Algorithms in ResNet Series Models : Focused on Fashion MNIST", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, pp.5-6, Jul. 2024.
   
 - **J. Si**, D. Kim, and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 17, No. 3, pp.121-129, Jun. 2024.
 
