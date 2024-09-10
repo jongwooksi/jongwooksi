@@ -108,29 +108,29 @@ Here are some ideas to get you started:
 
 📫 Scheduled Papers (TBD)
 
-
-- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
   
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
   
-- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", SCIE, UnderReview
+- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
 
-- **J. Si**, D. Kim, H. Lee, and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT, UnderReview
+- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", SCIE, UnderReview
 
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
 
+- **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", KCI, UnderReview
+  
+- **J. Si**, H. Jeong, S. Lee, and S. Kim, "VR Contents for Combined Training of Lower Limb Utilizing Foot Pressure Mat and Algorithm Based on Skeletal Data", KCI, UnderReview
+
 </br>
 
-📫 Preprint Paper
-
-- **J. Si** and S. Kim, "Chili Pepper Disease Diagnosis via Image Reconstruction Using GrabCut and Generative Adversarial Serial Autoencoder", https://arxiv.org/abs/2306.12057 (TBD, SCIE)
-  
 </br>
 :book: Publication
 
+- **J. Si**, D. Kim, H. Lee, and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT, Accepted
+  
 - J. Park, S. Yang, C. Yoon, **J. Si**, Y. Jung, and S. Kim, "AI English Conversation Coaching Platform in the Metaverse Focused on Korean Users", IEEE International Conference Application of Information and Communication Technologies (IEEE AICT), Accepted
   
-- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform", IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024), Accpeted
+- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform", IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024), Accepted
 
 - **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing,  Signal, Image and Video Processing, Vol. 18, No. 10, pp.7405-7418, Sep. 2024. (SCIE, IF: 2.0)
 
