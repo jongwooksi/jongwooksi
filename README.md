@@ -117,16 +117,16 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
 
-- **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", KCI, UnderReview
-  
-- **J. Si**, H. Jeong, S. Lee, and S. Kim, "VR Contents for Combined Training of Lower Limb Utilizing Foot Pressure Mat and Algorithm Based on Skeletal Data", KCI, UnderReview
-
 </br>
 
 </br>
 :book: Publication
 
-- **J. Si**, D. Kim, H. Lee, and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT, Accepted
+- **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+  
+- **J. Si**, H. Jeong, S. Lee, and S. Kim, "VR Contents for Combined Training of Lower Limb Utilizing Foot Pressure Mat and Algorithm Based on Skeletal Data", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol 17, No.4, Accepted
+
+- **J. Si**, D. Kim, H. Lee, and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT(SMART 2024), Accepted
   
 - J. Park, S. Yang, C. Yoon, **J. Si**, Y. Jung, and S. Kim, "AI English Conversation Coaching Platform in the Metaverse Focused on Korean Users", IEEE International Conference Application of Information and Communication Technologies (IEEE AICT), Accepted
   
@@ -144,7 +144,7 @@ Here are some ideas to get you started:
   
 - **J. Si**, D. Kim, and S. Kim, "Automation of Online to Offline Stores: Extremely Small Yolov8 and Feature-Based Product Recognition", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 17, No. 3, pp.121-129, Jun. 2024.
 
-- C. Yoon, S. Yang, J. Park, **J. Si**, Y. Jung, and S. Kim, "Metaverse Virtual Interview Platform Leveraging Generative AI and Speech Recognition, Journal of Korean Institute of Information Technology(JKIIT),  Vol. 22, No. 6, Jun. 2024.
+- C. Yoon, S. Yang, J. Park, **J. Si**, Y. Jung, and S. Kim, "Metaverse Virtual Interview Platform Leveraging Generative AI and Speech Recognition", Journal of Korean Institute of Information Technology(JKIIT),  Vol. 22, No. 6, Jun. 2024.
 
 - J. Jo, **J. Si** and S. Kim, "Building of 3D Virtual Space in Unreal Engine with Luma AI", Proc. Of Korean Institute of Information Technology Conference, pp. 410-411, May. 2024.
 
