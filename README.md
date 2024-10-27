@@ -111,8 +111,6 @@ Here are some ideas to get you started:
   
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
   
-- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", SCIE, UnderReview
-
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", SCIE, UnderReview
 
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
@@ -121,6 +119,8 @@ Here are some ideas to get you started:
 
 </br>
 :book: Publication
+
+- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder",s ensors. Vol. 24, No. 21, 6892, 2024. (SCIE, IF: 3.4)
 
 - **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", Journal of Korean Institute of Information Technology(JKIIT), Accepted
   
@@ -138,7 +138,7 @@ Here are some ideas to get you started:
   
 - **J. Si** and S. Kim, "Surface Defect Detection and Segmentation Using Diffusion Model Based on Feature Map of ResNet", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, pp. 1-2, Jul. 2024.
 
-- D. Kim, **J. Si**, and S. Kim, "2D Lip-Synced Interviewer Generation for Virtual Interview Scenarios : Utilizing Stable Diffusion and Wav2Lip", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, pp. 3-4, Jul. 2024.
+- D. Kim, **J. Si**, and S. Kim, "2D Lip-Synced Interviewer Generation for Virtual Interview Scenarios : Utilizing Stable Diffusion and Wav2Lip", Proc. Of Korea Society of Computer and Information Coferenece, Vol. 31, No. 2, pp. 3-4, Jul. 2024.
 
 - H. Choi, J. Ahn, **J. Si**, and S. Kim, "Performance Comparisons According to Transfer Learning and Optimization Algorithms in ResNet Series Models : Focused on Fashion MNIST", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 31, No. 2, pp.5-6, Jul. 2024.
   
