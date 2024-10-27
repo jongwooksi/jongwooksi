@@ -120,7 +120,7 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder",s ensors. Vol. 24, No. 21, 6892, 2024. (SCIE, IF: 3.4)
+- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", sensors. Vol. 24, No. 21, 6892, Oct. 2024. (SCIE, IF: 3.4)
 
 - **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", Journal of Korean Institute of Information Technology(JKIIT), Accepted
   
