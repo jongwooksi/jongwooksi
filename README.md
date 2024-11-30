@@ -110,8 +110,6 @@ Here are some ideas to get you started:
 
   
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
-  
-- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detection", SCIE, UnderReview
 
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
 
@@ -120,17 +118,37 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", sensors. Vol. 24, No. 21, 6892, Oct. 2024. (SCIE, IF: 3.4)
+- M. Woo, **J. Si**, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Accepted
 
-- **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", Journal of Korean Institute of Information Technology(JKIIT), Accepted
-  
-- **J. Si**, H. Jeong, S. Lee, and S. Kim, "VR Contents for Combined Training of Lower Limb Utilizing Foot Pressure Mat and Algorithm Based on Skeletal Data", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol 17, No.4, Accepted
+- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detector", Applied Sciences, Vol. 14, No. 22, Dec. 2024. (SCIE, IF(2023): 2.5)
 
-- **J. Si**, D. Kim, H. Lee, and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Intelligent Smart Mobility And Revolutionary Transportation with IoT(SMART 2024), Accepted
+- **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", Journal of Korean Institute of Information Technology(JKIIT), Vol. 22, No. 11, pp.145-154, Nov. 2024.
+
+- **J. Si**, J. Jo, and S. Kim, "Space Design and Utilization through GPT-4o Prompt-Based Panoramic Generation",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- D. Kim,  **J. Si** and S. Kim, "Full-Body Image Generation of Interviewer Based on Stable Diffusion Using ControlNet", Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- M. Woo,  **J. Si** and S. Kim, "Performance Comparisons of Open Source Vector Stores for Retrievel-Augmented Generation in Korean",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- D. Kim,  **J. Si** and S. Kim, "Design of Algorithm for Body Balance and Pose Assessment Using MMPose",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- H. Jeong,  **J. Si** and S. Kim, "Development of AR Navigation System Application for Kumoh National Institute of Technology Using Unity Engine",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- H. Jeong, D. Kim,  **J. Si** and S. Kim, "Development of an Interface for Automatic Transformation of Metaverse Stores Using Object Detection",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- J. Jo,  **J. Si** and S. Kim, "Development of Virtual Interview Contents Prototype Using Unreal Engine",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- J. Ahn, D. Kim,  **J. Si** and S. Kim, "Implementation of Google Cloud Platform-Based System for Product Recognition in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+
+- **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", Sensors. Vol. 24, No. 21, 6892, Oct. 2024. (SCIE, IF: 3.4)
+
+- **J. Si**, H. Jeong, S. Lee, and S. Kim, 'Virtual Reality Contents for Rehabilitation Training Utilizing Skeletal Data and Foot Pressure Mat", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 17, No. 5, pp.330-338, Oct. 2024.
+
+- **J. Si**, D. Kim, H. Lee, and S. Kim, "Application of Super Resolution in Defect Detection for Industrial Products with Reconstruction Model", International Conference on Smart Mobility And Revolutionary Transportation (SMART 2024), pp.67-73, Oct. 2024.
   
-- J. Park, S. Yang, C. Yoon, **J. Si**, Y. Jung, and S. Kim, "AI English Conversation Coaching Platform in the Metaverse Focused on Korean Users", IEEE International Conference Application of Information and Communication Technologies (IEEE AICT), Accepted
+- J. Park, S. Yang, C. Yoon, **J. Si**, Y. Jung, and S. Kim, "AI English Conversation Coaching Platform in the Metaverse Focused on Korean Users, IEEE International Conference Application of Information and Communication Technologies (IEEE AICT), pp.1-6, Sep. 2024.
   
-- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion-Based Panoramic Views for Metaverse Virtual Interview Platform", IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024), Accepted
+- **J. Si**, S. Yang, J. Song, S. Son, S. Lee, D. Kim, and S. Kim, "Generating and Integrating Diffusion Model-Based Panoramic Views for Virtual Interview Platform, IEEE International Conference on Artificial Intelligence in Engineering and Technology (IICAIET2024), pp.343-348, Aug. 2024.
 
 - **J. Si** and S. Kim, "V-DAFT: Visual Technique for Texture Image Defect Recognition with Denoising Autoencoder and Fourier Transform", Signal, Image and Video Processing,  Signal, Image and Video Processing, Vol. 18, No. 10, pp.7405-7418, Sep. 2024. (SCIE, IF: 2.0)
 
