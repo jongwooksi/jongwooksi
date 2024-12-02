@@ -124,21 +124,21 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", Journal of Korean Institute of Information Technology(JKIIT), Vol. 22, No. 11, pp.145-154, Nov. 2024.
 
-- **J. Si**, J. Jo, and S. Kim, "Space Design and Utilization through GPT-4o Prompt-Based Panoramic Generation",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- **J. Si**, J. Jo, and S. Kim, "Space Design and Utilization through GPT-4o Prompt-Based Panoramic Generation",  Proc. Of Korean Institute of Information Technology Conference, pp. 445-445, Nov. 2024.
 
-- D. Kim,  **J. Si** and S. Kim, "Full-Body Image Generation of Interviewer Based on Stable Diffusion Using ControlNet", Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- D. Kim,  **J. Si** and S. Kim, "Full-Body Image Generation of Interviewer Based on Stable Diffusion Using ControlNet", Proc. Of Korean Institute of Information Technology Conference, pp. 979-980, Nov. 2024.
 
-- M. Woo,  **J. Si** and S. Kim, "Performance Comparisons of Open Source Vector Stores for Retrievel-Augmented Generation in Korean",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- M. Woo,  **J. Si** and S. Kim, "Performance Comparisons of Open Source Vector Stores for Retrievel-Augmented Generation in Korean",  Proc. Of Korean Institute of Information Technology Conference, pp. 948-949, Nov. 2024.
 
-- D. Kim,  **J. Si** and S. Kim, "Design of Algorithm for Body Balance and Pose Assessment Using MMPose",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- D. Kim,  **J. Si** and S. Kim, "Design of Algorithm for Body Balance and Pose Assessment Using MMPose",  Proc. Of Korean Institute of Information Technology Conference, pp. 969-970, Nov. 2024.
 
-- H. Jeong,  **J. Si** and S. Kim, "Development of AR Navigation System Application for Kumoh National Institute of Technology Using Unity Engine",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- H. Jeong,  **J. Si** and S. Kim, "Development of AR Navigation System Application for Kumoh National Institute of Technology Using Unity Engine",  Proc. Of Korean Institute of Information Technology Conference, pp. 977-978, Nov. 2024.
 
-- H. Jeong, D. Kim,  **J. Si** and S. Kim, "Development of an Interface for Automatic Transformation of Metaverse Stores Using Object Detection",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- H. Jeong, D. Kim,  **J. Si** and S. Kim, "Development of an Interface for Automatic Transformation of Metaverse Stores Using Object Detection",  Proc. Of Korean Institute of Information Technology Conference, pp. 985-986, Nov. 2024.
 
-- J. Jo,  **J. Si** and S. Kim, "Development of Virtual Interview Contents Prototype Using Unreal Engine",  Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- J. Jo,  **J. Si** and S. Kim, "Development of Virtual Interview Contents Prototype Using Unreal Engine",  Proc. Of Korean Institute of Information Technology Conference, pp. 977-978, Nov. 2024.
 
-- J. Ahn, D. Kim,  **J. Si** and S. Kim, "Implementation of Google Cloud Platform-Based System for Product Recognition in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, Nov. 2024.
+- J. Ahn, D. Kim,  **J. Si** and S. Kim, "Implementation of Google Cloud Platform-Based System for Product Recognition in O2O Stores", Proc. Of Korean Institute of Information Technology Conference, pp. 997-998, Nov. 2024.
 
 - **J. Si** and S. Kim, "CRASA: Chili Pepper Disease Diagnosis via Image Reconstruction Using Grabcut and Generative Adversarial Serial Autoencoder", Sensors. Vol. 24, No. 21, 6892, Oct. 2024. (SCIE, IF: 3.4)
 
