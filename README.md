@@ -104,6 +104,7 @@ Here are some ideas to get you started:
 - (출원) "제조 공정의 이상감지장치 및 그 방법" : 김성영, 시종욱, 정지수, 정민수 
 - (출원) "태양전지 불량 검출장치 및 그 방법" : 김성영, 시종욱
 - (출원) "생성 인공지능과 음성 인식을 활용한 가상 면접 방법 및 이를 이용한 가상 면접 시스템" : 김성영, 정유철, 시종욱, 윤채원, 양성은, 박재성
+- (출원) "재활운동용 가상현실콘텐츠제공기술" : 김성영, 시종욱
 </br>
 
 📫 Scheduled Papers (TBD)
@@ -114,6 +115,7 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
 
 </br>
+
 
 </br>
 :book: Publication
