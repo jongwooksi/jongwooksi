@@ -43,14 +43,14 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- [Lecture] 2024-2 AI Programming Exercise
-- [Lecture] 2024-2 Practical Problem Solving and Algorithms
-- [Lecture] 2024-2 Multimedia Engineering
-- [Teaching Assistant] 2024-2 Metaverse Basic Programming
-- [Teaching Assistant] 2024-2 Deep Learning
+- [Lecture] 2025-1 TBD
+
 </br>
 
 🤔: Lecture
+- 2024-2 AI Programming Exercise (AI0004-01)
+- 2024-2 Practical Problem Solving and Algorithms (AI0015-01)
+- 2024-2 Multimedia Engineering (CD0016-01)
 - 2024-1 Web/Cloud Basics (AI0007-01)
 - 2024-1 AI Programming Basics (AI0001-01)
 - 2023-2 Object-oriented Programming (AI0003-01)
@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 - 2023-1 Basic Software for Majors (BA0017-23)
   
 ✨: Teaching Assistant (TA)
+- 2024-2 Machine Learning (AEA311-01)
+- 2024-2 Metaverse Basic Programming (CF0029-01)
+- 2024-2 Deep Learning (CD0082-02)
 - 2024-1 Metaverse design & development (CF0026-01)
 - 2024-1 Java Programming (CD0017-01)
 - 2024-1 Creative Design Project 1 (CD0033-05)
@@ -81,6 +84,8 @@ Here are some ideas to get you started:
 </br>
 :running: Assistant
 
+- 찾아가는 과학 멘토링 (2024.09 ~ 2024.11)
+- 구미여고 자율탐구활동 멘토(2024.05 ~ 2024.11)
 - kit Science Lab - Application of Raspberry Pi (2023.10.28 ~ 2023.12.09)
 - Gyeongbuk-type Human Resources Development-Employment-linked Metaverse Academy (2023.02.07 ~ 2023.02.10)
 - Major Certificate Intensive Camp - Microsoft International Certification (2023.01.16 ~ 2023.01.20)
@@ -104,7 +109,7 @@ Here are some ideas to get you started:
 - (출원) "제조 공정의 이상감지장치 및 그 방법" : 김성영, 시종욱, 정지수, 정민수 
 - (출원) "태양전지 불량 검출장치 및 그 방법" : 김성영, 시종욱
 - (출원) "생성 인공지능과 음성 인식을 활용한 가상 면접 방법 및 이를 이용한 가상 면접 시스템" : 김성영, 정유철, 시종욱, 윤채원, 양성은, 박재성
-- (출원) "재활운동용 가상현실콘텐츠제공기술" : 김성영, 시종욱
+- (출원) "재활운동용 가상현실콘텐츠 제공시스템 및 그 방법" : 김성영, 시종욱
 </br>
 
 📫 Scheduled Papers (TBD)
@@ -113,6 +118,8 @@ Here are some ideas to get you started:
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
 
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
+
+- **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", TBD
 
 </br>
 
