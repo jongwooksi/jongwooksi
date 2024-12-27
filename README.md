@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 :clipboard: About Me
 - Lab : Intelligent Image Analysis Lab (Director), Department of Computer· AI Convergence Engineering (Digital building 235) Kumoh National Institute of Technology (kit), KOREA
 - E-mail : jwsi425@kumoh.ac.kr
-- Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Metaverse, Generative AI(based on Image)
+- Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Metaverse, Generative AI(based on Image),Prompt Engineering
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
 - M.E, Computer Engineering, kit (2022. 2), Major GPA: 4.5/4.5
 - Ph.D Candidate, Computer· AI Convergence Engineering, kit (2022. 3~ ), Major GPA: 4.5/4.5
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
  
 🌱 Ongoing Mission
 - A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- [Lecture] 2025-1 TBD
+- [Lecture] 2025-1 Discrete Mathematics
 
 </br>
 
@@ -114,7 +114,10 @@ Here are some ideas to get you started:
 
 📫 Scheduled Papers (TBD)
 
-  
+- **J. Si** and S. Kim, "Exam Question Generation Using Generative AI Based on Prompt Engineering: Focused on Programming Courses", SCIE, TBD
+
+- **J. Si** and S. Kim, "Texture Defect Detection Using a Hybrid Model Based on UNet and Vision Transformer: Application of Gaussian and Gabor Filters", SCIE, TBD
+- 
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
 
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
