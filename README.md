@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 - **J. Si** and S. Kim, "Exam Question Generation Using Generative AI Based on Prompt Engineering: Focused on Programming Courses", SCIE, TBD
 
 - **J. Si** and S. Kim, "Texture Defect Detection Using a Hybrid Model Based on UNet and Vision Transformer: Application of Gaussian and Gabor Filters", SCIE, TBD
-- 
+  
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
 
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
