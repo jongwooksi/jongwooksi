@@ -139,7 +139,7 @@ Here are some ideas to get you started:
 :book: Publication
 
 - **J. Si** and S. Kim, "Performance Enhancing of Product Detection in Online-to-Offline Stores Using Data Generation Based on DALL-E3", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 1, Accepted
-- 
+  
 - M. Woo, **J. Si**, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 1, pp.13-20, Jan. 2025.
 
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detector", Applied Sciences, Vol. 14, No. 22, Dec. 2024. (SCIE, IF(2023): 2.5)
