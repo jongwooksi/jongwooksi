@@ -114,23 +114,33 @@ Here are some ideas to get you started:
 
 📫 Scheduled Papers (TBD)
 
-- **J. Si** and S. Kim, "Exam Question Generation Using Generative AI Based on Prompt Engineering: Focused on Programming Courses", SCIE, TBD
+- **J. Si** and S. Kim, "Exam Question Generation Using Generative AI Based on Prompt Engineering: Focused on Programming Courses", SCIE, UnderReview
 
-- **J. Si** and S. Kim, "Texture Defect Detection Using a Hybrid Model Based on UNet and Vision Transformer: Application of Gaussian and Gabor Filters", SCIE, TBD
+- **J. Si**and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", SCIE, UnderReview
   
-- **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", TBD
-
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
 
-- **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", TBD
+- **J. Si** and S. Kim, "SwinWater: Image Dehazing Based on Fusion of U-Net and Simplified Swin Transformer with Watershed and Guided Filter", SCIE, TBD
+    
+- **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
 
+- **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", KCI, TBD
+  
+- **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", KCI, TBD
+  
+- D. Kim, **J. Si**, and S. Kim, "EfficientNet-VGG Fusion Model-Based Multi-Class Defect Classification of Multi-Angle Solar Panel Images", KCI, TBD
+  
+- **J. Si** and S. Kim, "Research on Anthropomorphism of Animation Character Using Generative AI Focusing on Janus-Pro-7B", KCI, TBD
+  
 </br>
 
 
 </br>
 :book: Publication
 
-- M. Woo, **J. Si**, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+- **J. Si** and S. Kim, "Performance Enhancing of Product Detection in Online-to-Offline Stores Using Data Generation Based on DALL-E3", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 1, Accepted
+- 
+- M. Woo, **J. Si**, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 1, pp.13-20, Jan. 2025.
 
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detector", Applied Sciences, Vol. 14, No. 22, Dec. 2024. (SCIE, IF(2023): 2.5)
 
