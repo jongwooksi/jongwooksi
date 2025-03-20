@@ -118,9 +118,7 @@ Here are some ideas to get you started:
 
 - **J. Si**and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", SCIE, UnderReview
   
-- **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", SCIE, UnderReview
-
-- **J. Si** and S. Kim, "SwinWater: Image Dehazing Based on Fusion of U-Net and Simplified Swin Transformer with Watershed and Guided Filter", SCIE, TBD
+- **J. Si** and S. Kim, "SwinWater: Image Dehazing Based on Fusion of U-Net and Simplified Swin Transformer with Watershed and Guided Filter", SCIE, UnderReview
     
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
 
@@ -138,11 +136,13 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "Performance Enhancing of Product Detection in Online-to-Offline Stores Using Data Generation Based on DALL-E3", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 1, Accepted
+- **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", IEEE Access, Vol. 13, pp.46838-46855, Mar. 2025. (SCIE, IF(2023): 3.4)
+
+- **J. Si** and S. Kim, "Performance Enhancing of Product Detection in Online-to-Offline Stores Using Data Generation Based on DALL-E3", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 1, pp.32-39, Feb. 2025.
   
 - M. Woo, **J. Si**, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 1, pp.13-20, Jan. 2025.
 
-- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detector", Applied Sciences, Vol. 14, No. 22, Dec. 2024. (SCIE, IF(2023): 2.5)
+- **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detector", Applied Sciences, Vol. 14, No. 22, 10963, Dec. 2024. (SCIE, IF(2023): 2.5)
 
 - **J. Si** and S. Kim, "Research on Designing Realistic Virtual Interviewers Based on Analysis of AI Image Generation Web Platforms", Journal of Korean Institute of Information Technology(JKIIT), Vol. 22, No. 11, pp.145-154, Nov. 2024.
 
