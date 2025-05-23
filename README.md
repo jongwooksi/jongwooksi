@@ -118,15 +118,15 @@ Here are some ideas to get you started:
 
 - **J. Si**and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", SCIE, UnderReview
   
-- **J. Si** and S. Kim, "SwinWater: Image Dehazing Based on Fusion of U-Net and Simplified Swin Transformer with Watershed and Guided Filter", SCIE, UnderReview
-    
+- **J. Si** and S. Kim, "SUFERNOBWA: Satellite Image Utilization for Dehazing with Swin Transformer-Hybrid U-Net and Watershed Loss", SCIE, UnderReview
+
+- **J. Si** and S. Kim, "SHARK: Single Image Rain Streak Removal Using Harris Corner Loss and R-CBAM Network", SCIE, UnderReview
+
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
 
 - **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", KCI, TBD
   
 - **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", KCI, TBD
-  
-- D. Kim, **J. Si**, and S. Kim, "EfficientNet-VGG Fusion Model-Based Multi-Class Defect Classification of Multi-Angle Solar Panel Images", KCI, TBD
   
 - **J. Si** and S. Kim, "Research on Anthropomorphism of Animation Character Using Generative AI Focusing on Janus-Pro-7B", KCI, TBD
   
@@ -136,6 +136,8 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
+- D. Kim, **J. Si**, and S. Kim, "Multi-Angle Surface Defect Multi-Class Classification of Solar Panels Based on EfficientNet-VGG Fusion Model", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+  
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", IEEE Access, Vol. 13, pp.46838-46855, Mar. 2025. (SCIE, IF(2023): 3.4)
 
 - **J. Si** and S. Kim, "Performance Enhancing of Product Detection in Online-to-Offline Stores Using Data Generation Based on DALL-E3", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 1, pp.32-39, Feb. 2025.
@@ -327,12 +329,12 @@ Here are some ideas to get you started:
 </br>
 
 :two_men_holding_hands: PROJECT
-
+- 주변 상황 인식을 통한 유무인 복합 드론의 자율 착륙 방법, 국방부 방산특화 기술개발 연구과제, 2025-02-27~2025-10-31
 - 인공지능을 적용한 재활 운동 솔루션 개발, 한국연구재단(LINC 3.0 산학공동기술개발), 2024-06-01~2024-11-30
-- 객체 인식을 통한 O2O 자동 상점 시스템 개발, 중소벤처기업부, 2023-04-01~2025-03-31
+- 객체 인식을 통한 O2O 자동 상점 시스템 개발, 중소벤처기업부, 2023-04-01~2025-04-30
 - 2024 메타버스 랩 지원사업, 경상북도청, 2024-01-01~2024-12-31
-- 메에인: 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트, 과학기술정보통신부, 2023-05-01~2025-12-31
-- 경북형 인재양성-취업연계 메타버스 아카데미, 경상북도청, 2023-01-01~2024-12-31
+- 메에인: 햅틱과 AI기술을 활용한 가상인터뷰 프로젝트, 과학기술정보통신부, 2023-05-01~2024-12-31
+- 경북형 인재양성-취업연계 메타버스 아카데미, 경상북도청, 2023-01-01~2026-12-31
 - 지역혁신클러스터육성 2기(경북) : 지역혁신 계약LAB, 한국산업기술진흥원, 2023-01-01~2027-12-31
 - Development of Multi-purpose Unmanned Pest Monitoring System (The Ministry of SMEs and Startups), 2022-08-01~2023-04-30
 - 인공지능 무인 병해충 감시 시스템 개발을 통한 캡스톤디자인 AI 프로젝트 샘플 생성, 인공지능혁신공유대학사업단, 2022-09-01 ~ 2023-01-13
