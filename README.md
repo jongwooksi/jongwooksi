@@ -124,8 +124,6 @@ Here are some ideas to get you started:
 
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
 
-- **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", KCI, TBD
-  
 - **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", KCI, TBD
   
 - **J. Si** and S. Kim, "Research on Anthropomorphism of Animation Character Using Generative AI Focusing on Janus-Pro-7B", KCI, TBD
@@ -136,6 +134,8 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
+- **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+  
 - D. Kim, **J. Si**, and S. Kim, "Multi-Angle Surface Defect Multi-Class Classification of Solar Panels Based on EfficientNet-VGG Fusion Model", Journal of Korean Institute of Information Technology(JKIIT), Accepted
   
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", IEEE Access, Vol. 13, pp.46838-46855, Mar. 2025. (SCIE, IF(2023): 3.4)
