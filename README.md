@@ -99,7 +99,6 @@ Here are some ideas to get you started:
 - Development of Computer Vision System in Raspberry Pi Environment (2021.01.06 ~ 2021.01.12)
 - Specialized Mentoring based Major Subject - Digital System and Circuit Analysis (2020.10 ~ 2020.12)
 - Iot Design Using Raspberry Pi Platform (2020.08.18 ~ 2020.08.31)
-- Humanoid Robot Control Using Image Analysis (2019.12.06 ~ 2020.01.08)
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
  
 </br>
