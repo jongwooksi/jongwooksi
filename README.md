@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Underwater Image Enhancement via Three-branch Network Integrated Color Balance, Multi-Scale Detail, and Illumination Correction", SCIE, TBD
 
--**J. Si** and S. Kim, "A Study on the Anthropomorphization of Animated Characters Using Text-to-Image Generative AI", TBD
+- **J. Si** and S. Kim, "A Study on the Anthropomorphization of Animated Characters Using Text-to-Image Generative AI", TBD
 
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
 
