@@ -117,7 +117,7 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "Exam Question Generation Using Generative AI Based on Prompt Engineering: Focused on Programming Courses", SCIE, UnderReview
 
-- **J. Si**and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", SCIE, UnderReview
+- **J. Si** and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", SCIE, UnderReview
   
 - **J. Si** and S. Kim, "SUFERNOBWA: Satellite Image Utilization for Dehazing with Swin Transformer-Hybrid U-Net and Watershed Loss", SCIE, UnderReview
 
