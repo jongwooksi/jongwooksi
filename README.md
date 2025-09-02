@@ -41,7 +41,6 @@ Here are some ideas to get you started:
 - Ph.D Candidate, Computer· AI Convergence Engineering, kit (2022. 3~, Completion of Doctoral Course: 2024. 02 ), Major GPA: 4.5/4.5
  </br>
  
-
 🤔: Lecture
 - 2025-2 Digital Literacy (LA0366-16)
 - 2025-2 AI Basic Project (GA2010-01)
@@ -56,6 +55,7 @@ Here are some ideas to get you started:
 - 2023-2 Computational Thinking (LA0338-02)
 - 2023-1 Business Programming (BD0005-01)
 - 2023-1 Basic Software for Majors (BA0017-23)
+</br>
   
 ✨: Teaching Assistant (TA)
 - 2025-1 Deep Learning (GA3025-01)
@@ -79,10 +79,8 @@ Here are some ideas to get you started:
 - 2021-1 Image Processing (CD0068-01)
 - 2020-2 Multimedia Engineering (CD0016-01, CD0016-02)
 - 2020-1 Image Processing (CD0068-02)
-
 </br>
 
-</br>
 :running: Assistant
 
 - 찾아가는 과학교실 주강사 (2025.08 ~ 2025.10)
@@ -102,7 +100,6 @@ Here are some ideas to get you started:
 - Specialized Mentoring based Major Subject - Digital System and Circuit Analysis (2020.10 ~ 2020.12)
 - Iot Design Using Raspberry Pi Platform (2020.08.18 ~ 2020.08.31)
 - kit Science Lab - Smart Engineering Class (2019.08.31 ~ 2019.10.19)
- 
 </br>
 
 ✨ Patent
@@ -131,14 +128,13 @@ Here are some ideas to get you started:
 
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
 
-- **J. Si** and S. Kim, "Generative Model for Raindrop Removal with Dual-Stage Generator and Edge Detection Operator-Based Loss", TBD", KCI, TBD
+- **J. Si** and S. Kim, "Generative Model for Raindrop Removal with Dual-Stage Generator and Edge Detection Operator-Based Loss", KCI, TBD
  
 - **J. Si**, Y. Lee, and S. Kim, "A Study on the Feasibility of Dehazing Techniques for Defect Detection in Manufacturing Images", International Conference, TBD
   
 </br>
 
 
-</br>
 :book: Publication
 
 - **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", Journal of Korean Institute of Information Technology(JKIIT), Accepted
