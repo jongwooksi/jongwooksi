@@ -41,13 +41,12 @@ Here are some ideas to get you started:
 - Ph.D Candidate, Computer· AI Convergence Engineering, kit (2022. 3~, Completion of Doctoral Course: 2024. 02 ), Major GPA: 4.5/4.5
  </br>
  
-🌱 Ongoing Mission
-- A Representative of the Graduate School of Computer Engineering (2021.02 ~ )
-- [Lecture] 2025-1 Discrete Mathematics
-
-</br>
 
 🤔: Lecture
+- 2025-2 Digital Literacy (LA0366-16)
+- 2025-2 AI Basic Project (GA2010-01)
+- 2025-2 Linear Algebra (LA0513-03)
+- 2025-1 Discrete Mathematics (LA0514-01)
 - 2024-2 AI Programming Exercise (AI0004-01)
 - 2024-2 Practical Problem Solving and Algorithms (AI0015-01)
 - 2024-2 Multimedia Engineering (CD0016-01)
@@ -59,6 +58,8 @@ Here are some ideas to get you started:
 - 2023-1 Basic Software for Majors (BA0017-23)
   
 ✨: Teaching Assistant (TA)
+- 2025-1 Deep Learning (GA3025-01)
+- 2025-1 Image Processing (GA3023-02)
 - 2024-2 Machine Learning (AEA311-01)
 - 2024-2 Metaverse Basic Programming (CF0029-01)
 - 2024-2 Deep Learning (CD0082-02)
@@ -84,8 +85,9 @@ Here are some ideas to get you started:
 </br>
 :running: Assistant
 
-- 찾아가는 과학 멘토링 (2024.09 ~ 2024.11)
-- 구미여고 자율탐구활동 멘토(2024.05 ~ 2024.11)
+- 찾아가는 과학교실 주강사 (2025.08 ~ 2025.10)
+- 찾아가는 과학교실 주강사 (2024.09 ~ 2024.11)
+- 구미여고 자율탐구활동 주강사 (2024.05 ~ 2024.11)
 - kit Science Lab - Application of Raspberry Pi (2023.10.28 ~ 2023.12.09)
 - Gyeongbuk-type Human Resources Development-Employment-linked Metaverse Academy (2023.02.07 ~ 2023.02.10)
 - Major Certificate Intensive Camp - Microsoft International Certification (2023.01.16 ~ 2023.01.20)
@@ -121,11 +123,17 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "SHARK: Single Image Rain Streak Removal Using Harris Corner Loss and R-CBAM Network", SCIE, UnderReview
 
+- **J. Si** and S. Kim, "All-in-One Dual Stage Image Restoration Network for Deblurring, Deraining, Desnowing, and Low-Light Enhancement", SCIE, UnderReview
+
+- **J. Si** and S. Kim, "Underwater Image Enhancement via Three-branch Network Integrated Color Balance, Multi-Scale Detail, and Illumination Correction", SCIE, TBD
+
+-**J. Si** and S. Kim, "A Study on the Anthropomorphization of Animated Characters Using Text-to-Image Generative AI", TBD
+
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
 
-- **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", KCI, TBD
-  
-- **J. Si** and S. Kim, "Research on Anthropomorphism of Animation Character Using Generative AI Focusing on Janus-Pro-7B", KCI, TBD
+- **J. Si** and S. Kim, "Generative Model for Raindrop Removal with Dual-Stage Generator and Edge Detection Operator-Based Loss", TBD", KCI, TBD
+ 
+- **J. Si**, Y. Lee, and S. Kim, "A Study on the Feasibility of Dehazing Techniques for Defect Detection in Manufacturing Images", International Conference, TBD
   
 </br>
 
@@ -133,14 +141,58 @@ Here are some ideas to get you started:
 </br>
 :book: Publication
 
-- **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", Journal of Korean Institute of Information Technology(JKIIT), Accepted
-  
-- D. Kim, **J. Si**, and S. Kim, "Multi-Angle Surface Defect Multi-Class Classification of Solar Panels Based on EfficientNet-VGG Fusion Model", Journal of Korean Institute of Information Technology(JKIIT), Accepted
-  
+- **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+
+- **J. Si**, H. Jeong, Y. Lee, and S. Kim, "Designing Projection-Mapped Interview Rooms with Diffusion Models for Sustainable Digital Interaction", IEEE 7th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS), Accepted
+
+- **J. Si** and S. Kim, "Patch-Based Iterative Super-Resolution Network for Enhancing the Quality of Drone-Captured Image", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 4, pp.263-270, Aug. 2025.
+
+- **J. Si** and S. Kim, "Dehazing of Uniform Haze Synthesized Drone Images Using a U-Net Architecture", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 4, pp.255-262, Aug. 2025.
+
+- **J. Si** and S. Kim, "A Study on the Design and Usability of Panorama-Based Virtual Interview Spaces Using Skybox AI", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 8, pp.183-192, Aug. 2025.
+
+- **J. Si**, J. Ahn, Y. Lee, and S. Kim, "Deep Learning Model for Rain Streak Removal Model and Application of Loss Function A Preliminary Study", International conference on Adcanved Information Technology(ADINTECH 2025), pp.1-3, Aug. 2025.
+
+- Sam, **J. Si**, S. Lee, J. Ahn, S. An, and C. Lee, "Design of Vision-Based Object Detection Utilization for Flame and Smoke Recognition", International conference on Adcanved Information Technology(ADINTECH 2025), pp.30-32, Aug. 2025.
+
+- **J. Si**, J. Jeong, D. Lee, and S. Kim, "강설 환경에서 드론 촬영 영상의 시각적 복원을 위한 Image Desnowing", Proc. Of Institute of Korean Electrical and Electronics Engineers, pp. 1-3, Aug. 2025.
+
+- J. Ahn, **J. Si** and S. Kim, "Tobacco Leaf Disease Classification via Transfer Learning Based on a Fusion of ResNeXt Models", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 32, No. 2, pp. 266-267, Aug. 2025.
+ 
+- **J. Si** and S. Kim, "Uniform Haze Image Synthesis and Restoration for Robustness in Industrial Vision Systems: A Preliminary Study", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 32, No. 2, pp. 265-266, Aug. 2025.
+
+- D. Kim, **J. Si** and S. Kim, "Multi-Angle Surface Defect Multi-Class Classification of Solar Panels Based on EfficientNet-VGG Fusion Model", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 7, pp.23-30, Jul. 2025.
+
+- J. Jo, **J. Si** and S. Kim, "Comparison of Autonomous Driving Results Using Reinforcement and Imitation Learning with Learning Agents in Unreal Engine",  Proc. Of Korean Institute of Information Technology Conference, pp. 1368-1369, Jun. 2025.
+ 
+- J. Ahn, **J. Si** and S. Kim, "Building a Google Cloud-Based MLOps Pipeline for Credit Card Fraud Detection",  Proc. Of Korean Institute of Information Technology Conference, pp. 1412-1413, Jun. 2025.
+ 
+- D. Kim, **J. Si** and S. Kim, "Comparison of YOLOv10-Based Product Recognition Performance in O2O Store Environments",  Proc. Of Korean Institute of Information Technology Conference, pp. 774-775, Jun. 2025.
+ 
+- S. Lee, **J. Si** and S. Kim, "Design of a Context-Based Error Detection Approach for Enhancing the Performance of Korean OCR Models",  Proc. Of Korean Institute of Information Technology Conference, pp. 1125-1126, Jun. 2025.
+ 
+- Y. Lee, **J. Si** and S. Kim, "Design of a TextRank-Based Summarization Method Specialized for Korean Documents",  Proc. Of Korean Institute of Information Technology Conference, pp. 970-971, Jun. 2025.
+ 
+- D. Lee, **J. Si** and S. Kim, "Development of a Virtual Simulation Game for Fire Evacuation Training at the Digital Building of Kumoh National Institute of Technology",  Proc. Of Korean Institute of Information Technology Conference, pp. 1365-1367, Jun. 2025.
+ 
+- **J. Si** and S. Kim, "Feasibility Analysis of Applying Image Processing Techniques Using Text Prompts",  Proc. Of Korean Institute of Information Technology Conference, pp. 121-121, Jun. 2025.
+ 
+- H. Jang, H. Shin, **J. Si** and S. Kim, "Development of a Unity-Based Extraterrestrial Planet Survival Adventure Game",  Proc. Of Korean Institute of Information Technology Conference, pp. 930-931, Jun. 2025.
+ 
+- H. Jeong, **J. Si** and S. Kim, "Indoor 3D Space Design in Unity Using Projection Mapping",  Proc. Of Korean Institute of Information Technology Conference, pp. 932-933, Jun. 2025.
+ 
+- J. Bae, **J. Si** and S. Kim, "Performance Comparison of Korean-English Translation Based on Model Size and Fine-Tuning",  Proc. Of Korean Institute of Information Technology Conference, pp. 990-991, Jun. 2025.
+
+- D. Kim, **J. Si** and S. Kim, "Text-Based Style Transfer of Panoramic images Using ControlNet",  Proc. Of Korean Institute of Information Technology Conference, pp. 772-773, Jun. 2025.
+
+- D. Kim, **J. Si**, J. Ahn, S. Kim, "Deepseek-Based Prompt Optimization and Janus-Powered Generation of 2D East Asian Virtual Interviewers", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, pp. 36-37, May. 2025.
+
 - **J. Si** and S. Kim, "HMD<sup>2</sup>: Texture Surface Defect Recognition with Histogram Matching and Two Stage Denoising Using a Diffusion Model", IEEE Access, Vol. 13, pp.46838-46855, Mar. 2025. (SCIE, IF(2023): 3.4)
 
 - **J. Si** and S. Kim, "Performance Enhancing of Product Detection in Online-to-Offline Stores Using Data Generation Based on DALL-E3", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 1, pp.32-39, Feb. 2025.
   
+- **J. Si** and S. Kim, "Application of Panoramic Image Generation and Super-Resolution Technologies for Enhancing Metaverse Factory Environments", Proc. Of Korea Society of Computer and Information Conferenece, Vol. 32, No. 1, pp. 101-102, Jan. 2025.
+
 - M. Woo, **J. Si**, and S. Kim, "Document Summary-Based Chatbot System Utilizing Retrieval-Augmented Generation and Smaller Large Language Models", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 1, pp.13-20, Jan. 2025.
 
 - **J. Si** and S. Kim, "GAN-Based Map Generation Technique of Aerial Image Using Residual Blocks and Canny Edge Detector", Applied Sciences, Vol. 14, No. 22, 10963, Dec. 2024. (SCIE, IF(2023): 2.5)
@@ -328,6 +380,7 @@ Here are some ideas to get you started:
 </br>
 
 :two_men_holding_hands: PROJECT
+- 모바일 로봇을 활용한 가상투어 기반 순찰 콘텐츠 생성 자동화 기술 개발, 경상북도RISE센터, 2025-07-01~2025-12-31
 - 주변 상황 인식을 통한 유무인 복합 드론의 자율 착륙 방법, 국방부 방산특화 기술개발 연구과제, 2025-02-27~2025-10-31
 - 인공지능을 적용한 재활 운동 솔루션 개발, 한국연구재단(LINC 3.0 산학공동기술개발), 2024-06-01~2024-11-30
 - 객체 인식을 통한 O2O 자동 상점 시스템 개발, 중소벤처기업부, 2023-04-01~2025-04-30
@@ -343,91 +396,3 @@ Here are some ideas to get you started:
 - A Study on the Semantic Analysis of Cyber Attacks and the Establishment of Knowledge Database (ETRI), 2019-06-01 ~ 2019-11-30
 
 </br>
-
-:trophy: Awards
-- **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
-
-- D. Kim, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
-
-- J. Jo, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
-
-- S. Lee, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
-
-- **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2024.05.24, Korean Institute of Information Technology
-
-- **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-
-- D. Kim, **J. Si**, S. Lee, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- S. Son, **J. Si**, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- D. Kim, **J. Si**, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- J. Song, **J. Si**, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- S. Yang, **J. Si**, S. Son, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- M. Woo, **J. Si**, J. Jo, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- M. Woo, **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- **J. Si** and S. Kim, "Excellent Paper Award",  IEEE ICKII, 2023.08.13
-  
-- **J. Si** and S. Kim, "Excellent Paper Award",  Proc. Of Korea Society of Computer and Information Conference, 2023.07.14, Korea Society of Computer and Information
-
-- **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- S. Son, **J. Si**, J. Song, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-  
-- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Excellent Paper Award",  Proc. Of Korean Institute of Information Technology Conference, 2023.11.24, Korean Institute of Information Technology
-
-- **J. Si** and S. Kim, "Excellent Paper Award - Performance Comparison According to Feature Map for Defect Detection of Tile Patterns based on Isolation Forest",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
-
-- **J. Si** and S. Kim, "Excellent Paper Award - Design of Object Detection Utilization for Improving Location Accuracy of the Underground Control Panel in Augmented Reality",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
-
-- J. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Excellent Paper Award - Crop Disease Detection System Based on Object Detection Using a Cloud Environment and Database",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
-
-- S. Son, **J. Si**, J. Song, and S. Kim, "Excellent Paper Award - Development of PyQt5-based Graphical User Interface for Convenient Use of Pest Detection Model",  Proc. Of Korean Institute of Information Technology Conference, 2023.06.02, Korean Institute of Information Technology
- 
-- S. Lee, **J. Si**, S. Hong, S. Kim, and H. Lee, "Excellent Paper Award - Fan Unit Motor Condition Monitoring with IMU and PZT Acceleration Sensors", 2022.12.02, Korean Institute of Information Technology
-
-- J. Jeong, M. Jeong, **J. Si** and S. Kim, "Excellent Paper Award - Development of Data Analysis System for Determining Product Quaility of Injection Molding Machine Results", 2022.12.02,  Korean Institute of Information Technology
-
-- J. Kim, G. Kim, J. Jeong, **J. Si**, and S. Kim, "Excellent Paper Award - Development of an Application for Underground Control Panel Management", 2022.12.02, Korean Institute of Information Technology
-
-- G. Kim, **J. Si**, S. Son, J. Song, and S. Kim, "Excellent Paper Award - Development of Smart Alarm IoT Systemin Raspberry Pi Environment", 2022.12.02, Korean Institute of Information Technology
-
-- S. Lee, M. Jeong, **J. Si**, C. Lee, and S. Kim, "Excellent Paper Award - Development Indoor Bike Racing Game in Virtual Reality Environment", 2022.12.02, Korean Institute of Information Technology
-
-- S. Lee, **J. Si**, G. Kim, J. Kim, and S. Kim, "Excellent Paper Award - Human Body Tracking and Motion Recognition System Using Pan-Tilt HAT", 2022.06.03, Korean Institute of Information Technology
-
-- M. Jeong, **J. Si**, S. Lee, M. Kim, and S. Kim, "Excellent Paper Award -Crop Disease Diagnosis System based on Pan-Tilt HAT For Smart Farm", 2022.06.03, Korean Institute of Information Technology
-
--  **J. Si**, Excellent Paper Award - Graduation, 2022.02.18, Kumoh National Institute of Technology
-
-- **J. Si**, J. Jeong, G. Kim, S. Lee and M. Jeong, "Excellent Award - Intelligent Humanoid", 2021.12.21, The chairman of the Industrial-Academic Cooperative Foundation
-
-- **J. Si** and S.Kim "Excellent Paper Award - Quality Analysis of the Conversion According to the Compression Rate from the PNG Image to the JPEG Image", 2021.11.26, Korean Institute of Information Technology
-
--  J. Jeong, G. Kim, S. Lee, M. Jeong, **J. Si** and S.Kim "Excellent Paper Award - Design of Virtual Electronic Circuit Simulator in Metaverse Environment", 2021.11.26, Korean Institute of Information Technology
-
-- **J. Si** and S. Kim, "Excellent Paper Award - Golf Swing Trajectories Comparison Based on Principal Component Analysis : A Preliminary Study", 2021.06.05, Korean Institute of Information Technology
-
-- **J. Si**, D. Kim and J. Jeong, "Speciality Award - Intelligent Humanoid", 2021.01.08, Embedded SW System Industrial Association
-
-- **J. Si** and M. Kim, "Popularity Award - Kit Engineering Fair", 2020.12.28, Kumoh National Institute of Technology
-
-- **J. Si**, J. Jeong, G. Kim and S. Kim, "Excellent Paper Award - Style Interconversion of Korean Portrait and ID Photo Using CycleGAN", 2020.10.23, Korean Institute of Information Technology
-
-- **J. Si**, "Speciality Award - Graduation Award", 2020.08.21, Kumoh National Institute of Technology
-
-- H. Son, **J. Si**, D. Kim, Y. Lee and S. Kim, "Excellent Paper Award - Traffic Accident Detection Using Bird’s-Eye View and Vehicle Motion Vector", 2020.07.17, Korea Society of Computer and Information
-
-</br>
-
-⚡ Certificate
-- Network Administrator Grade 2, 2019.07.09, ICQA
-- Internet Information Management Grade 2, 2018.09.21, KAIT
-- Linux Master Grade 2, 2018.03.23, KAIT
-- Digital Information Utilization Internet Information Search Advanced, 2018.03.09, KAIT
-- Practical Mathematics Grade 1, 2017.09.18, KOPE
