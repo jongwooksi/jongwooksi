@@ -113,8 +113,6 @@ Here are some ideas to get you started:
 📫 Scheduled Papers (TBD)
 
 - **J. Si** and S. Kim, "Exam Question Generation Using Generative AI Based on Prompt Engineering: Focused on Programming Courses", SCIE, UnderReview
-
-- **J. Si** and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", SCIE, UnderReview
   
 - **J. Si** and S. Kim, "SUFERNOBWA: Satellite Image Utilization for Dehazing with Swin Transformer-Hybrid U-Net and Watershed Loss", SCIE, UnderReview
 
@@ -122,14 +120,16 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "All-in-One Dual Stage Image Restoration Network for Deblurring, Deraining, Desnowing, and Low-Light Enhancement", SCIE, UnderReview
 
-- **J. Si** and S. Kim, "Underwater Image Enhancement via Three-branch Network Integrated Color Balance, Multi-Scale Detail, and Illumination Correction", SCIE, TBD
+- **J. Si** and S. Kim, "Underwater Image Enhancement via Three-branch Network Integrated Color Balance, Multi-Scale Detail, and Illumination Correction", SCIE, UnderReview
 
-- **J. Si** and S. Kim, "A Study on the Anthropomorphization of Animated Characters Using Text-to-Image Generative AI", TBD
+- **J. Si** and S. Kim, "A Study on the Anthropomorphization of Animated Characters Using Text-to-Image Generative AI", KCI, TBD
 
-- **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, TBD
+- **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, UnderReview
 
 - **J. Si** and S. Kim, "Generative Model for Raindrop Removal with Dual-Stage Generator and Edge Detection Operator-Based Loss", KCI, TBD
- 
+
+- **J. Si**, H. Lee, and S. Kim, "Super-Resolution of Infrared Image via Edge and Bicubic Information Fusion based on Multi-Stage Network", KCI, TBD
+
 - **J. Si**, Y. Lee, and S. Kim, "A Study on the Feasibility of Dehazing Techniques for Defect Detection in Manufacturing Images", International Conference, TBD
   
 </br>
@@ -137,9 +137,15 @@ Here are some ideas to get you started:
 
 :book: Publication
 
-- **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", Journal of Korean Institute of Information Technology(JKIIT), Accepted
+- **J. Si** and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", The International Journal of Advanced Manufacturing Technology, Nov. 2025. (SCIE, IF(2024): 3.1)
+  
+- **J. Si**, H. Jeong, Y. Lee, and S. Kim, "Designing Projection-Mapped Interview Rooms with Diffusion Models for Sustainable Digital Interaction", IEEE 7th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS), pp. 1-6, Oct. 2025.
+- 
+- D. Kim, **J. Si**, S. Kim, "Analysis of Multimodal PhotoMaker Approach for Generating Realistic Asian Virtual Interviewers", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, pp.65-66, Oct. 2025.
+- 
+- D. Kim, **J. Si**, S. Kim, "Design and Performance Comparison of Deep Learning Model for Binary Classification of Macular Edema Risk", Proc. Of Korean Institute of Information, Electronics, and Communication Technology Conference, pp.67-68, Oct. 2025.
 
-- **J. Si**, H. Jeong, Y. Lee, and S. Kim, "Designing Projection-Mapped Interview Rooms with Diffusion Models for Sustainable Digital Interaction", IEEE 7th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS), Accepted
+- **J. Si** and S. Kim, "Analysis of Results and Limitations in Prompt-Based Image Processing: Focusing on InstructPix2Pix", Journal of Korean Institute of Information Technology(JKIIT), Vol. 23, No. 9, pp. 181-188, Sep. 2025
 
 - **J. Si** and S. Kim, "Patch-Based Iterative Super-Resolution Network for Enhancing the Quality of Drone-Captured Image", Journal of Korea Institute of Information, Electronics, and Communication Technology, Vol. 18, No. 4, pp.263-270, Aug. 2025.
 
