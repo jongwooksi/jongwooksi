@@ -116,8 +116,6 @@ Here are some ideas to get you started:
   
 - **J. Si** and S. Kim, "SUFERNOBWA: Satellite Image Utilization for Dehazing with Swin Transformer-Hybrid U-Net and Watershed Loss", SCIE, UnderReview
 
-- **J. Si** and S. Kim, "SHARK: Single Image Rain Streak Removal Using Harris Corner Loss and R-CBAM Network", SCIE, UnderReview
-
 - **J. Si** and S. Kim, "All-in-One Dual Stage Image Restoration Network for Deblurring, Deraining, Desnowing, and Low-Light Enhancement", SCIE, UnderReview
 
 - **J. Si** and S. Kim, "Underwater Image Enhancement via Three-branch Network Integrated Color Balance, Multi-Scale Detail, and Illumination Correction", SCIE, UnderReview
@@ -136,7 +134,8 @@ Here are some ideas to get you started:
 
 
 :book: Publication
-
+- **J. Si** and S. Kim,"SHARK: Single Image Rain Streak Removal Using Harris Corner Loss and R-CBAM Network", Circuits, Systems, and Signal Processing, Dec. 2025. (SCIE, IF(2024): 2.0)
+  
 - **J. Si** and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", The International Journal of Advanced Manufacturing Technology, Nov. 2025. (SCIE, IF(2024): 3.1)
   
 - **J. Si**, H. Jeong, Y. Lee, and S. Kim, "Designing Projection-Mapped Interview Rooms with Diffusion Models for Sustainable Digital Interaction", IEEE 7th Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (IEEE ECBIOS), pp. 1-6, Oct. 2025.
