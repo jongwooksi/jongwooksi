@@ -35,13 +35,15 @@ Here are some ideas to get you started:
 :clipboard: About Me
 - Lab : Intelligent Image Analysis Lab (Director), Department of Computer· AI Convergence Engineering (Digital building 235) Kumoh National Institute of Technology (kit), KOREA
 - E-mail : jwsi425@kumoh.ac.kr
-- Research Area: Style Transfer, Image Generation, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Metaverse, Generative AI(based on Image),Prompt Engineering
+- Research Area: Image Restoration, Deep learning, Computer Vision, Multimedia, Image Processing, Anomaly Detection, Generative AI(based on Image),Prompt Engineering
 - B.S, Computer Engineering, kit (2020. 8) GPA: 4.22/4.5, Major GPA: 4.32/4.5
 - M.E, Computer Engineering, kit (2022. 2), Major GPA: 4.5/4.5
-- Ph.D Candidate, Computer· AI Convergence Engineering, kit (2022. 3~, Completion of Doctoral Course: 2024. 02 ), Major GPA: 4.5/4.5
+- Ph.D, Computer· AI Convergence Engineering, kit (2026. 2), Major GPA: 4.5/4.5
  </br>
  
 🤔: Lecture
+- 2026-1 Digital Literacy
+- 2026-1 Algorithm 1
 - 2025-2 Digital Literacy (LA0366-16)
 - 2025-2 AI Basic Project (GA2010-01)
 - 2025-2 Linear Algebra (LA0513-03)
@@ -58,6 +60,10 @@ Here are some ideas to get you started:
 </br>
   
 ✨: Teaching Assistant (TA)
+- 2025-2 Artificial Intelligence (AEA005-01)
+- 2025-2 Natural Language based Artificial Intelligence (DIG011-01)
+- 2025-2 Introduction of Artificial Intelligence (GA2009-01)
+- 2025-2 Multimedia Engineering (GA3016-01)
 - 2025-1 Deep Learning (GA3025-01)
 - 2025-1 Image Processing (GA3023-02)
 - 2024-2 Machine Learning (AEA311-01)
@@ -108,6 +114,11 @@ Here are some ideas to get you started:
 - (출원) "태양전지 불량 검출장치 및 그 방법" : 김성영, 시종욱
 - (출원) "생성 인공지능과 음성 인식을 활용한 가상 면접 방법 및 이를 이용한 가상 면접 시스템" : 김성영, 정유철, 시종욱, 윤채원, 양성은, 박재성
 - (출원) "재활운동용 가상현실콘텐츠 제공시스템 및 그 방법" : 김성영, 시종욱
+- (출원) "상품 검출 모델 학습 시스템" : 김성영, 시종욱
+- (출원) "소형 언어 모델 기반 챗봇 시스템" : 김성영, 시종욱
+- (출원) "드론 영상 품질 향상 시스템" : 김성영, 시종욱
+ 
+
 </br>
 
 📫 Scheduled Papers (TBD)
@@ -128,7 +139,7 @@ Here are some ideas to get you started:
 
 - **J. Si**, H. Lee, and S. Kim, "Super-Resolution of Infrared Image via Edge and Bicubic Information Fusion based on Multi-Stage Network", KCI, TBD
 
-- **J. Si**, Y. Lee, and S. Kim, "A Study on the Feasibility of Dehazing Techniques for Defect Detection in Manufacturing Images", International Conference, TBD
+- **J. Si**, S. An, and S. Kim, "A Study on the Feasibility of Dehazing Techniques for Defect Detection in Manufacturing Images", International Conference, TBD
   
 </br>
 
@@ -381,6 +392,7 @@ Here are some ideas to get you started:
 </br>
 
 :two_men_holding_hands: PROJECT
+- AI 전기차 화재 예지 예방 충전기 개발, 경상북도RISE센터, 2025-12-01~2026-02-28
 - 모바일 로봇을 활용한 가상투어 기반 순찰 콘텐츠 생성 자동화 기술 개발, 경상북도RISE센터, 2025-07-01~2025-12-31
 - 주변 상황 인식을 통한 유무인 복합 드론의 자율 착륙 방법, 국방부 방산특화 기술개발 연구과제, 2025-02-27~2025-10-31
 - 인공지능을 적용한 재활 운동 솔루션 개발, 한국연구재단(LINC 3.0 산학공동기술개발), 2024-06-01~2024-11-30
