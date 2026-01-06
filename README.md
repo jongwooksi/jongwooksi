@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 
 ✨ Patent
 - (등록) "전자 회로도 영상의 자동인식 및 네트리스트 변환 방법" : 김성영, 시종욱, 김문년 
-- (출원) "제조 공정의 이상감지장치 및 그 방법" : 김성영, 시종욱, 정지수, 정민수 
+- (등록) "제조 공정의 이상감지장치 및 그 방법" : 김성영, 시종욱, 정지수, 정민수 
 - (출원) "태양전지 불량 검출장치 및 그 방법" : 김성영, 시종욱
 - (출원) "생성 인공지능과 음성 인식을 활용한 가상 면접 방법 및 이를 이용한 가상 면접 시스템" : 김성영, 정유철, 시종욱, 윤채원, 양성은, 박재성
 - (출원) "재활운동용 가상현실콘텐츠 제공시스템 및 그 방법" : 김성영, 시종욱
@@ -133,19 +133,20 @@ Here are some ideas to get you started:
 
 - **J. Si** and S. Kim, "A Study on the Anthropomorphization of Animated Characters Using Text-to-Image Generative AI", KCI, TBD
 
-- **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", KCI, UnderReview
-
 - **J. Si** and S. Kim, "Generative Model for Raindrop Removal with Dual-Stage Generator and Edge Detection Operator-Based Loss", KCI, TBD
 
 - **J. Si**, H. Lee, and S. Kim, "Super-Resolution of Infrared Image via Edge and Bicubic Information Fusion based on Multi-Stage Network", KCI, TBD
 
-- **J. Si**, S. An, and S. Kim, "A Study on the Feasibility of Dehazing Techniques for Defect Detection in Manufacturing Images", International Conference, TBD
+- **J. Si**, J. Lee, and S. Kim, "A Study on the Feasibility of Dehazing for Defect Detection in Manufacturing Images Inspection System", International Conference, TBD
   
 </br>
 
 
 :book: Publication
-- **J. Si** and S. Kim,"SHARK: Single Image Rain Streak Removal Using Harris Corner Loss and R-CBAM Network", Circuits, Systems, and Signal Processing, Dec. 2025. (SCIE, IF(2024): 2.0)
+
+- **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", Journal of Korean Institute of Information Technology(JKIIT), Vol. 24, No. 2, Feb. 2026.
+  
+- **J. Si** and S. Kim, "SHARK: Single Image Rain Streak Removal Using Harris Corner Loss and R-CBAM Network", Circuits, Systems, and Signal Processing, Dec. 2025. (SCIE, IF(2024): 2.0)
   
 - **J. Si** and S. Kim, "GRooUV: Surface Defect Detection with Gabor Filter Using Reconstruction-Based Blurring U-Net–ViT", The International Journal of Advanced Manufacturing Technology, Nov. 2025. (SCIE, IF(2024): 3.1)
   
