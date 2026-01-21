@@ -42,8 +42,9 @@ Here are some ideas to get you started:
  </br>
  
 🤔: Lecture
-- 2026-1 Digital Literacy
-- 2026-1 Algorithm 1
+- 2026-1 Deep Learning (GA3025-01)
+- 2026-1 Digital Literacy (LA0366-18)
+- 2026-1 Algorithm 1 (GA3019-03)
 - 2025-2 Digital Literacy (LA0366-16)
 - 2025-2 AI Basic Project (GA2010-01)
 - 2025-2 Linear Algebra (LA0513-03)
