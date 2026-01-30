@@ -143,7 +143,7 @@ Here are some ideas to get you started:
 
 :book: Publication
 
-- **J. Si** and S. Kim, "Underwater Image Enhancement via Three-branch Network Integrated Color Balance, Multi-Scale Detail, and Illumination Correction", Journal of Water Process Engineering, Mar. 2026. (SCIE, IF(2024): 6.4)
+- **J. Si** and S. Kim, "Underwater Image Enhancement via Three-branch Network Integrated Color Balance, Multi-Scale Detail, and Illumination Correction", Journal of Water Process Engineering, Mar. 2026. (SCIE, IF(2024): 6.7)
   
 - **J. Si**, S. Kim, and B. Oh, "Crack Detection in Pavement Roads and Concrete : Reconstruction Model with Blurring and Crack Augmentation", Journal of Korean Institute of Information Technology(JKIIT), Vol. 24, No. 2, Feb. 2026.
   
